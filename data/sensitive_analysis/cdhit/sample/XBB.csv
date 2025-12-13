@@ -1,0 +1,586 @@
+Accession ID,Virus name,Collection date,country,Province,Pango lineage,Variant,clade,partiallyAliased,clade_display,Omicron sublineages
+EPI_ISL_17197591,hCoV-19/Chongqing/YBCDC-0241/2022,2022-10-12,China,Chongqing,XBB.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1,22F (XBB),XBB
+EPI_ISL_16922586,hCoV-19/Tianjin/TJCDC-1557/2022,2022-10-19,China,Tianjin,XBB.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1,22F (XBB),XBB
+EPI_ISL_16922587,hCoV-19/Tianjin/TJCDC-1558/2022,2022-10-19,China,Tianjin,XBB.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1,22F (XBB),XBB
+EPI_ISL_16922588,hCoV-19/Tianjin/TJCDC-1564/2022,2022-10-20,China,Tianjin,XBB.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1,22F (XBB),XBB
+EPI_ISL_18070532,hCoV-19/Shandong/WCDC-200/2022,2022-11-12,China,Shandong,XBB.1.4,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.4,22F (XBB),XBB
+EPI_ISL_16854496,hCoV-19/Beijing/BJCDC-3039/2022,2022-11-23,China,Beijing,XBB.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1,22F (XBB),XBB
+EPI_ISL_16481872,hCoV-19/Tianjin/TJCDC-037/2022,2022-12-21,China,Tianjin,XBB.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1,22F (XBB),XBB
+EPI_ISL_17493023,hCoV-19/Shannxi/SXCDC-sr-0003/2022,2022-12-25,China,Shaanxi,XBB.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.2,22F (XBB),XBB
+EPI_ISL_17493016,hCoV-19/Shannxi/SXCDC-sr-0010/2022,2022-12-28,China,Shaanxi,XBB.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1,22F (XBB),XBB
+EPI_ISL_17488110,hCoV-19/Zhejiang/ZJCDC-385/2023,2023-02-13,China,Zhejiang,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17072129,hCoV-19/Jiangsu/LYGCDC-062/2023,2023-02-20,China,Jiangsu,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_18330792,hCoV-19/Guangxi/LZCDC-0301-2/2023,2023-02-25,China,Guangxi,XBB.1.11.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.11.1,22F (XBB),XBB
+EPI_ISL_17185998,hCoV-19/Hainan/CDC-429/2023,2023-02-28,China,Hainan,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17488840,hCoV-19/Tianjin/TJCDC-0303-31/2023,2023-03-02,China,Tianjin,XBB.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1,22F (XBB),XBB
+EPI_ISL_18330793,hCoV-19/Guangxi/LZCDC-0304-1/2023,2023-03-02,China,Guangxi,XBB.1.11.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.11.1,22F (XBB),XBB
+EPI_ISL_17488839,hCoV-19/Tianjin/TJCDC-0303-32/2023,2023-03-02,China,Tianjin,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17488838,hCoV-19/Tianjin/TJCDC-0303-33/2023,2023-03-04,China,Tianjin,XBB.1.5.38,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.38,23A (XBB.1.5),XBB
+EPI_ISL_17494753,hCoV-19/Tianjin/TJCDC-031351/2023,2023-03-05,China,Tianjin,FL.10,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.10,23D (XBB.1.9),XBB
+EPI_ISL_18330902,hCoV-19/Guangxi/NNCDC-275/2023,2023-03-07,China,Guangxi,XBB.1.5.23,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.23,23A (XBB.1.5),XBB
+EPI_ISL_17620372,hCoV-19/Beijing/BJCDC-0724/2023,2023-03-10,China,Beijing,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17785570,hCoV-19/Inner Mongolia/NMCDC-HLB-006/2023,2023-03-11,China,Neimenggu,XBB.1.5.24,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24,23A (XBB.1.5),XBB
+EPI_ISL_17490455,hCoV-19/Hebei/HCDC-092/2023,2023-03-11,China,Hebei,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17495171,hCoV-19/Tianjin/TJCDC-033122/2023,2023-03-17,China,Tianjin,XBB.1.5.24,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24,23A (XBB.1.5),XBB
+EPI_ISL_17493015,hCoV-19/Shannxi/SXCDC-sr-0001/2023,2023-03-17,China,Shaanxi,FL.2.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.4,23D (XBB.1.9),XBB
+EPI_ISL_17487856,hCoV-19/Zhejiang/ZJCDC-646/2023,2023-03-17,China,Zhejiang,XBB.2.3.6,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.6,23E (XBB.2.3),XBB
+EPI_ISL_17488784,hCoV-19/Tianjin/TJCDC-257-026/2023,2023-03-19,China,Tianjin,GA.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.17.1.1,22F (XBB),XBB
+EPI_ISL_17494634,hCoV-19/Tianjin/TJCDC-033130/2023,2023-03-20,China,Tianjin,XBB.1.9.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2,23D (XBB.1.9),XBB
+EPI_ISL_18330847,hCoV-19/Guangxi/NNCDC-291/2023,2023-03-21,China,Guangxi,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17307404,hCoV-19/Jiangsu/YCCDC-160/2023,2023-03-22,China,Jiangsu,FL.2.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.1,23D (XBB.1.9),XBB
+EPI_ISL_17493719,hCoV-19/Zhejiang/ZJCDC-005/2023,2023-03-24,China,Zhejiang,EG.4,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.4,23D (XBB.1.9),XBB
+EPI_ISL_17493718,hCoV-19/Zhejiang/ZJCDC-006/2023,2023-03-24,China,Zhejiang,XBB.1.17.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.17.1,22F (XBB),XBB
+EPI_ISL_17494035,hCoV-19/Jiangsu/JCDC-074/2023,2023-03-24,China,Jiangsu,XBB.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1,22F (XBB),XBB
+EPI_ISL_17493705,hCoV-19/Zhejiang/ZJCDC-056/2023,2023-03-24,China,Zhejiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17489322,hCoV-19/Sichuan/SCDC-0479/2023,2023-03-25,China,Sichuan,XBB.1.9.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2,23D (XBB.1.9),XBB
+EPI_ISL_17490494,hCoV-19/Hebei/HCDC-0164/2023,2023-03-25,China,Hebei,FL.2.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.4,23D (XBB.1.9),XBB
+EPI_ISL_17511935,hCoV-19/Shanghai/SCDC-XG04-2062/2023,2023-03-26,China,Shanghai,XBB.1.5.24,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24,23A (XBB.1.5),XBB
+EPI_ISL_17494039,hCoV-19/Zhejiang/ZJCDC-067/2023,2023-03-27,China,Zhejiang,XBB.1.9.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2,23D (XBB.1.9),XBB
+EPI_ISL_17494040,hCoV-19/Zhejiang/ZJCDC-066/2023,2023-03-27,China,Zhejiang,XBB.1.9.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2,23D (XBB.1.9),XBB
+EPI_ISL_17493707,hCoV-19/Zhejiang/ZJCDC-054/2023,2023-03-27,China,Zhejiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17684293,hCoV-19/Jiangsu/NJCDC-232/2023,2023-03-28,China,Jiangsu,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17492819,hCoV-19/Zhejiang/ZJCD-C683/2023,2023-03-29,China,Zhejiang,XBB.1.9,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17684319,hCoV-19/Jiangsu/ZJCDC-026/2023,2023-03-30,China,Jiangsu,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17789977,hCoV-19/Inner Mongolia/NMCDC-JW-003/2023,2023-03-30,China,Neimenggu,EG.4,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.4,23D (XBB.1.9),XBB
+EPI_ISL_17495390,hCoV-19/Zhejiang/ZJCDC-715/2023,2023-03-31,China,Zhejiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17495387,hCoV-19/Zhejiang/ZJCDC-718/2023,2023-03-31,China,Zhejiang,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_17765827,hCoV-19/Anhui/HFCDC-351/2023,2023-04-01,China,Anhui,GM.2,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.6.2,23E (XBB.2.3),XBB
+EPI_ISL_17485548,hCoV-19/Fujian/FCDC-04S001/2023,2023-04-02,China,Fujian,EG.1.6,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.1.6,23D (XBB.1.9),XBB
+EPI_ISL_17492821,hCoV-19/Zhejiang/ZJCD-C681/2023,2023-04-02,China,Zhejiang,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17501488,hCoV-19/Zhejiang/ZJCDC-775/2023,2023-04-05,China,Zhejiang,XBB.1.9.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2,23D (XBB.1.9),XBB
+EPI_ISL_17511957,hCoV-19/Shanghai/SCDC-PD04070004/2023,2023-04-05,China,Shanghai,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_17511969,hCoV-19/Shanghai/SCDC-PD04110004/2023,2023-04-06,China,Shanghai,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17516932,hCoV-19/Zhejiang/ZJCDCP-846/2023,2023-04-06,China,Zhejiang,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17784965,hCoV-19/Beijing/BJCDC-0936/2023,2023-04-07,China,Beijing,GW.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.19.1.1,22F (XBB),XBB
+EPI_ISL_17879913,hCoV-19/Anhui/WHCDC-134/2023,2023-04-07,China,Anhui,FL.5,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17501547,hCoV-19/Zhejiang/ZJCDC-824/2023,2023-04-08,China,Zhejiang,XBB.1.5.63,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.63,23A (XBB.1.5),XBB
+EPI_ISL_17501538,hCoV-19/Zhejiang/ZJCDC-814/2023,2023-04-08,China,Zhejiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17830321,hCoV-19/Gansu/GSCDC-0232/2023,2023-04-09,China,Gansu,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17511905,hCoV-19/Shanghai/SCDC-HG0410-196/2023,2023-04-09,China,Shanghai,HJ.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.1.1,23A (XBB.1.5),XBB
+EPI_ISL_17501475,hCoV-19/Zhejiang/ZJCDC-826/2023,2023-04-11,China,Zhejiang,XBB.1.16.4,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.4,23B (XBB.1.16),XBB
+EPI_ISL_17501544,hCoV-19/Zhejiang/ZJCDC-837/2023,2023-04-11,China,Zhejiang,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17501568,hCoV-19/Zhejiang/ZJCDC-835/2023,2023-04-11,China,Zhejiang,EG.4,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.4,23D (XBB.1.9),XBB
+EPI_ISL_17547526,hCoV-19/Sichuan/SNCDC-CX003/2023,2023-04-11,China,Sichuan,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17785050,hCoV-19/Beijing/BJCDC-1080/2023,2023-04-12,China,Beijing,XBB.1.19.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.19.2,22F (XBB),XBB
+EPI_ISL_17785027,hCoV-19/Beijing/BJCDC-1044/2023,2023-04-13,China,Beijing,GW.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.19.1.1,22F (XBB),XBB
+EPI_ISL_17785024,hCoV-19/Beijing/BJCDC-1041/2023,2023-04-13,China,Beijing,GW.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.19.1.1,22F (XBB),XBB
+EPI_ISL_17584674,hCoV-19/Guangdong/GDCDC_QY_0055/2023,2023-04-14,China,Guangdong,XBB.1.5.2,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.2,23A (XBB.1.5),XBB
+EPI_ISL_17775504,hCoV-19/Xinjiang/XJCDCYL-054/2023,2023-04-14,China,Xinjiang,XBB.1.44,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.44,22F (XBB),XBB
+EPI_ISL_17511795,hCoV-19/Anhui/XCCDC-075/2023,2023-04-14,China,Anhui,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17547530,hCoV-19/Fujian/FCDC-FZLG01155/2023,2023-04-14,China,Fujian,XBB.2.3.6,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.6,23E (XBB.2.3),XBB
+EPI_ISL_17637469,hCoV-19/Jiangsu/XZCDC-224/2023,2023-04-15,China,Jiangsu,EU.1.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.26.1.1,23A (XBB.1.5),XBB
+EPI_ISL_17584967,hCoV-19/Qinghai/QCDC-QHSYY-140/2023,2023-04-15,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17775395,hCoV-19/Xinjiang/XJCDCHT-009/2023,2023-04-16,China,Xinjiang,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17637488,hCoV-19/Jiangsu/YCCDC-180/2023,2023-04-17,China,Jiangsu,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17830307,hCoV-19/Gansu/GSCDC-0205/2023,2023-04-17,China,Gansu,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17637486,hCoV-19/Jiangsu/YCCDC-178/2023,2023-04-18,China,Jiangsu,XBB.2.3.6,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.6,23E (XBB.2.3),XBB
+EPI_ISL_17637464,hCoV-19/Jiangsu/WXCDC-154/2023,2023-04-19,China,Jiangsu,EG.4.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.4.2,23D (XBB.1.9),XBB
+EPI_ISL_17619321,hCoV-19/Shanghai/SCDC-XG04-2701/2023,2023-04-19,China,Shanghai,XBB.1.5.12,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17620314,hCoV-19/Yunnan/YNCDC-0389/2023,2023-04-20,China,Yunnan,GA.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.17.1.1,22F (XBB),XBB
+EPI_ISL_17637386,hCoV-19/Jiangsu/NJCDC-269/2023,2023-04-20,China,Jiangsu,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17794347,hCoV-19/Jiangxi/JXGZ-199/2023,2023-04-21,China,Jiangxi,XBB.1.5.46,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.46,23A (XBB.1.5),XBB
+EPI_ISL_17618349,hCoV-19/Shanghai/SCDC-HG0423-299/2023,2023-04-21,China,Shanghai,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17698090,hCoV-19/Guangdong/GDCDC_GZ_0247/2023,2023-04-21,China,Guangdong,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17698004,hCoV-19/Guangdong/GDCDC_GZ_0180/2023,2023-04-22,China,Guangdong,FL.4.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.2,23D (XBB.1.9),XBB
+EPI_ISL_17785360,hCoV-19/Anhui/TLCDC-17/2023,2023-04-22,China,Anhui,FP.4,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.11.1.4,22F (XBB),XBB
+EPI_ISL_17684461,hCoV-19/Henan/PYCDC-XG023/2023,2023-04-22,China,Henan,XBB.1.24.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.24.3,22F (XBB),XBB
+EPI_ISL_17584957,hCoV-19/Anhui/LACDC-044/2023,2023-04-22,China,Anhui,FL.1.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.1.3,23D (XBB.1.9),XBB
+EPI_ISL_17637414,hCoV-19/Jiangsu/NJCDC-299/2023,2023-04-23,China,Jiangsu,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_17545759,hCoV-19/Henan/KFCDC-0132/2023,2023-04-23,China,Henan,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_17801890,hCoV-19/Anhui/HNCDC-63/2023,2023-04-23,China,Anhui,XBB.2.3.6,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.6,23E (XBB.2.3),XBB
+EPI_ISL_17801892,hCoV-19/Anhui/HNCDC-65/2023,2023-04-23,China,Anhui,XBB.2.3.6,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.6,23E (XBB.2.3),XBB
+EPI_ISL_17801901,hCoV-19/Anhui/HNCDC-74/2023,2023-04-23,China,Anhui,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_17808140,hCoV-19/Anhui/HNCDC-89/2023,2023-04-23,China,Anhui,XBB.2.3.6,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.6,23E (XBB.2.3),XBB
+EPI_ISL_17697700,hCoV-19/Guangdong/GDCDC_SZ_0340/2023,2023-04-24,China,Guangdong,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17836400,hCoV-19/Xinjiang/XJCDCALT-25/2023,2023-04-24,China,Xinjiang,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17684228,hCoV-19/Shanxi/JCCDC-JCCX0127/2023,2023-04-24,China,Shanxi,HH.1,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.2.1,23E (XBB.2.3),XBB
+EPI_ISL_17801894,hCoV-19/Anhui/HNCDC-67/2023,2023-04-24,China,Anhui,GJ.1.2,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.3.1.2,23E (XBB.2.3),XBB
+EPI_ISL_17775107,hCoV-19/Liaoning/LNCDC-121-2/2023,2023-04-24,China,Liaoning,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17794477,hCoV-19/Jiangxi/JXJDZ-014/2023,2023-04-25,China,Jiangxi,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17784864,hCoV-19/Anhui/AQCDC-050/2023,2023-04-25,China,Anhui,EG.4.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.4.2,23D (XBB.1.9),XBB
+EPI_ISL_17689273,hCoV-19/Anhui/HSCDC-57/2023,2023-04-25,China,Anhui,XBB.1.9.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2,23D (XBB.1.9),XBB
+EPI_ISL_17795072,hCoV-19/Jiangsu/NJCDC-324/2023,2023-04-25,China,Jiangsu,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17775123,hCoV-19/Liaoning/LNCDC-126-11/2023,2023-04-25,China,Liaoning,XBB.1.5.12,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.12,23A (XBB.1.5),XBB
+EPI_ISL_17645695,hCoV-19/Sichuan/LZSCDC-47JGL/2023,2023-04-25,China,Sichuan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17697911,hCoV-19/Guangdong/GDCDC_SZ_0557/2023,2023-04-26,China,Guangdong,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17801899,hCoV-19/Anhui/HNCDC-72/2023,2023-04-26,China,Anhui,FE.1.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.18.1.1.1,22F (XBB),XBB
+EPI_ISL_17664528,hCoV-19/Sichuan/YACDC-CX032/2023,2023-04-26,China,Sichuan,FL.4.11,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.11,23D (XBB.1.9),XBB
+EPI_ISL_17625527,hCoV-19/Shanghai/SCDC-3339/2023,2023-04-26,China,Shanghai,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17794349,hCoV-19/Jiangxi/JXGZ-201/2023,2023-04-26,China,Jiangxi,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_18447542,hCoV-19/Gansu/QYCDC-0277/2023,2023-04-27,China,Gansu,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17625432,hCoV-19/Shanghai/SCDC-410/2023,2023-04-28,China,Shanghai,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17625369,hCoV-19/Hubei/HCDC-1070/2023,2023-04-28,China,Hubei,FL.13.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.13.1,23D (XBB.1.9),XBB
+EPI_ISL_17625325,hCoV-19/Hubei/HCDC-1048/2023,2023-04-28,China,Hubei,XBB.1.5.20,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.20,23A (XBB.1.5),XBB
+EPI_ISL_17795790,hCoV-19/Henan/ZKCDC-39/2023,2023-04-28,China,Henan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17794439,hCoV-19/Jiangxi/JXJA-027/2023,2023-04-28,China,Jiangxi,FD.2,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.15,23A (XBB.1.5),XBB
+EPI_ISL_17645499,hCoV-19/Hubei/HCDC-WH1230/2023,2023-04-28,China,Hubei,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17729772,hCoV-19/Anhui/BZCDC-66/2023,2023-04-28,China,Anhui,GW.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.19.1.1,22F (XBB),XBB
+EPI_ISL_17795732,hCoV-19/Jiangsu/YZCDC-107/2023,2023-04-29,China,Jiangsu,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17620291,hCoV-19/Anhui/LACDC-054/2023,2023-04-29,China,Anhui,XBB.1.5.24,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24,23A (XBB.1.5),XBB
+EPI_ISL_17836384,hCoV-19/Xinjiang/XJCDCBAZ-074/2023,2023-04-29,China,Xinjiang,EG.4,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.4,23D (XBB.1.9),XBB
+EPI_ISL_17645423,hCoV-19/Sichuan/GACDC-18230100/2023,2023-04-29,China,Sichuan,XBB.1.24.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.24.1,22F (XBB),XBB
+EPI_ISL_17645489,hCoV-19/Hubei/HCDC-WH1220/2023,2023-04-29,China,Hubei,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17836325,hCoV-19/Xinjiang/XJCDCHT032/2023,2023-04-29,China,Xinjiang,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17684077,hCoV-19/Yunnan/YNCDC-0496/2023,2023-04-29,China,Yunnan,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18009709,hCoV-19/Beijing/BJCDC-1439/2023,2023-04-30,China,Beijing,EU.1.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.26.1.1,23A (XBB.1.5),XBB
+EPI_ISL_17684118,hCoV-19/Sichuan/YACDC-cx035/2023,2023-04-30,China,Sichuan,XBB.1.5.24,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24,23A (XBB.1.5),XBB
+EPI_ISL_17951415,hCoV-19/Shanxi/TYCDC-114/2023,2023-04-30,China,Shanxi,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17794288,hCoV-19/Jiangxi/JXFZ-070/2023,2023-04-30,China,Jiangxi,XBB.1.17.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.17.1,22F (XBB),XBB
+EPI_ISL_17765869,hCoV-19/Anhui/HFCDC-395/2023,2023-05-01,China,Anhui,XBB.1.5.12,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.12,23A (XBB.1.5),XBB
+EPI_ISL_17765838,hCoV-19/Anhui/HFCDC-364/2023,2023-05-01,China,Anhui,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17794291,hCoV-19/Jiangxi/JXFZ-086/2023,2023-05-01,China,Jiangxi,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17794903,hCoV-19/Jiangxi/JXYC-028/2023,2023-05-01,China,Jiangxi,GM.1,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.6.1,23E (XBB.2.3),XBB
+EPI_ISL_17625381,hCoV-19/Hubei/HCDC-XN1128/2023,2023-05-01,China,Hubei,GR.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.42.1,23A (XBB.1.5),XBB
+EPI_ISL_17999064,hCoV-19/Xinjiang/BTCDC199/2023,2023-05-02,China,Xinjiang,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17684469,hCoV-19/Henan/PYCDC-XG052/2023,2023-05-02,China,Henan,XBB.2.3,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3,23E (XBB.2.3),XBB
+EPI_ISL_17998802,hCoV-19/Gansu/GSCDC-0320/2023,2023-05-02,China,Gansu,XBB.1.44.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,22F,XBB.1.44.1,22F (XBB),XBB
+EPI_ISL_18013090,hCoV-19/Anhui/WHCDC-216/2023,2023-05-02,China,Anhui,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17794533,hCoV-19/Jiangxi/JXJJ-107/2023,2023-05-02,China,Jiangxi,GA.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.17.1.1,22F (XBB),XBB
+EPI_ISL_17794784,hCoV-19/Jiangxi/JXPX-043/2023,2023-05-02,China,Jiangxi,XBB.1.24.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.24.3,22F (XBB),XBB
+EPI_ISL_17645931,hCoV-19/Shanghai/SCDC-XG05-3537/2023,2023-05-02,China,Shanghai,XBB.1.5.17,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.17,23A (XBB.1.5),XBB
+EPI_ISL_17652410,hCoV-19/Qinghai/QHCDC-HSZ-118/2023,2023-05-03,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17714262,hCoV-19/Zhejiang/SKLID_ZJU-32/2023,2023-05-03,China,Zhejiang,FL.21.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.21.2,23D (XBB.1.9),XBB
+EPI_ISL_17714265,hCoV-19/Zhejiang/SKLID_ZJU-31/2023,2023-05-03,China,Zhejiang,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_17714261,hCoV-19/Zhejiang/SKLID_ZJU-30/2023,2023-05-03,China,Zhejiang,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17765942,hCoV-19/Anhui/MCDC217/2023,2023-05-03,China,Anhui,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17684483,hCoV-19/Gansu/TSCDC-051113/2023,2023-05-03,China,Gansu,GJ.3,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.3.3,23E (XBB.2.3),XBB
+EPI_ISL_17684427,hCoV-19/Hubei/HCDC-ES1488/2023,2023-05-03,China,Hubei,FL.4.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.2,23D (XBB.1.9),XBB
+EPI_ISL_17620286,hCoV-19/Anhui/LACDC-049/2023,2023-05-03,China,Anhui,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17836365,hCoV-19/Xinjiang/XJCDCCJ-072/2023,2023-05-03,China,Xinjiang,XBB.1.44.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,22F,XBB.1.44.1,22F (XBB),XBB
+EPI_ISL_17645670,hCoV-19/Heilongjiang/HLJCDC-1109/2023,2023-05-04,China,Heilongjiang,FL.4.6,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.6,23D (XBB.1.9),XBB
+EPI_ISL_17703997,hCoV-19/Fujian/FCDC-ND-1058/2023,2023-05-04,China,Fujian,XBB.2.3.2,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.2,23E (XBB.2.3),XBB
+EPI_ISL_17775127,hCoV-19/Liaoning/LNCDC-144-12/2023,2023-05-04,China,Liaoning,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17671986,hCoV-19/Hubei/HCDC-SZ1341/2023,2023-05-04,China,Hubei,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_17775154,hCoV-19/Xinjiang/XJCDCHT041/2023,2023-05-04,China,Xinjiang,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17684164,hCoV-19/Sichuan/LSZCDC-0510-8/2023,2023-05-04,China,Sichuan,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17729789,hCoV-19/Anhui/BZCDC-83/2023,2023-05-04,China,Anhui,XBB.1.9.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2,23D (XBB.1.9),XBB
+EPI_ISL_17794913,hCoV-19/Jiangxi/JXYC-072/2023,2023-05-05,China,Jiangxi,FD.2,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.15,23A (XBB.1.5),XBB
+EPI_ISL_17684137,hCoV-19/Sichuan/SNCDC-CX010/2023,2023-05-05,China,Sichuan,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17718358,hCoV-19/Sichuan/DZCDC-CX0037/2023,2023-05-05,China,Sichuan,FL.16,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_17850660,hCoV-19/Liaoning/LNCDC-167-66/2023,2023-05-05,China,Liaoning,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17671990,hCoV-19/Hubei/HCDC-SZ1334/2023,2023-05-05,China,Hubei,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17697699,hCoV-19/Guangdong/GDCDC_SZ_0586/2023,2023-05-05,China,Guangdong,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17645669,hCoV-19/Heilongjiang/HLJCDC-1108/2023,2023-05-05,China,Heilongjiang,XBB.2.9,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.2.9,22F (XBB),XBB
+EPI_ISL_17735986,hCoV-19/Sichuan/LZCDC-069-LLQ/2023,2023-05-06,China,Sichuan,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17775214,hCoV-19/Xinjiang/XJCDCKLMY-113/2023,2023-05-06,China,Xinjiang,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17684008,hCoV-19/Yunnan/YNCDC-0593/2023,2023-05-06,China,Yunnan,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17645689,hCoV-19/Heilongjiang/HLJCDC-1129/2023,2023-05-06,China,Heilongjiang,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17794075,hCoV-19/Hubei/HCDC-HG1788/2023,2023-05-06,China,Hubei,XBB.1.5.20,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.20,23A (XBB.1.5),XBB
+EPI_ISL_17794694,hCoV-19/Jiangxi/JXNC-211/2023,2023-05-06,China,Jiangxi,XBB.1.46,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,22F,XBB.1.46,22F (XBB),XBB
+EPI_ISL_17729984,hCoV-19/Qinghai/QHCDC-GEMYY-6/2023,2023-05-06,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17729803,hCoV-19/Fujian/FCDC-ND-1039/2023,2023-05-07,China,Fujian,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17698230,hCoV-19/Guangdong/GDCDC_GZ_0362/2023,2023-05-07,China,Guangdong,FL.4.6,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.6,23D (XBB.1.9),XBB
+EPI_ISL_17794695,hCoV-19/Jiangxi/JXNC-213/2023,2023-05-07,China,Jiangxi,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17775259,hCoV-19/Xinjiang/XJCDCHM-084/2023,2023-05-07,China,Xinjiang,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_17718359,hCoV-19/Sichuan/DZCDC-CX0036/2023,2023-05-07,China,Sichuan,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17730001,hCoV-19/Qinghai/QHCDC-HSZ-194/2023,2023-05-07,China,Qinghai,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17836323,hCoV-19/Xinjiang/XJCDCHT-068/2023,2023-05-07,China,Xinjiang,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17684197,hCoV-19/Sichuan/CDCDC-19-CX1528/2023,2023-05-07,China,Sichuan,XBB.1.9.5,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",23D,XBB.1.9.5,23D (XBB.1.9),XBB
+EPI_ISL_17697808,hCoV-19/Guangdong/GDCDC_JY_0035/2023,2023-05-08,China,Guangdong,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17795803,hCoV-19/Henan/ZKCDC-52/2023,2023-05-08,China,Henan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17795800,hCoV-19/Henan/ZKCDC-49/2023,2023-05-08,China,Henan,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17795804,hCoV-19/Henan/ZKCDC-53/2023,2023-05-08,China,Henan,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17795077,hCoV-19/Jiangsu/NJCDC-370/2023,2023-05-08,China,Jiangsu,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17795801,hCoV-19/Henan/ZKCDC-50/2023,2023-05-08,China,Henan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17683994,hCoV-19/Yunnan/YNCDC-0576/2023,2023-05-08,China,Yunnan,GY.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.1,23B (XBB.1.16),XBB
+EPI_ISL_17951307,hCoV-19/Shanxi/TYCDC-123/2023,2023-05-08,China,Shanxi,GA.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.17.1.2,22F (XBB),XBB
+EPI_ISL_17698014,hCoV-19/Guangdong/GDCDC_MM_0072/2023,2023-05-08,China,Guangdong,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17671953,hCoV-19/Hubei/HCDC-JZ1360/2023,2023-05-08,China,Hubei,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_18049634,hCoV-19/Beijing/BJCDC-1787/2023,2023-05-09,China,Beijing,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.25,23B (XBB.1.16),XBB
+EPI_ISL_17672022,hCoV-19/Hubei/HCDC-WH1319/2023,2023-05-09,China,Hubei,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17684331,hCoV-19/Hubei/HCDC-WH1514/2023,2023-05-09,China,Hubei,XBB.1.16.22,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.22,23B (XBB.1.16),XBB
+EPI_ISL_17794377,hCoV-19/Jiangxi/JXGZ-229/2023,2023-05-09,China,Jiangxi,XBB.1.31,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.31,22F (XBB),XBB
+EPI_ISL_17998805,hCoV-19/Gansu/GSCDC-0324/2023,2023-05-09,China,Gansu,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17698022,hCoV-19/Guangdong/GDCDC_JM_0102/2023,2023-05-09,China,Guangdong,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17703968,hCoV-19/Fujian/FCDC-FZLG1631/2023,2023-05-10,China,Fujian,XBB.1.24.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.24.3,22F (XBB),XBB
+EPI_ISL_17698288,hCoV-19/Guangdong/GDCDC_GZ_0386/2023,2023-05-10,China,Guangdong,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17795678,hCoV-19/Jiangsu/WXCDC-249/2023,2023-05-10,China,Jiangsu,FY.3.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.3,22F (XBB),XBB
+EPI_ISL_17794604,hCoV-19/Jiangxi/JXML-479/2023,2023-05-10,China,Jiangxi,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17689381,hCoV-19/Fujian/FCDC-LYCX088/2023,2023-05-10,China,Fujian,FL.5,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.5,23D (XBB.1.9),XBB
+EPI_ISL_18049407,hCoV-19/Beijing/BJCDC-2056/2023,2023-05-11,China,Beijing,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17775240,hCoV-19/Xinjiang/XJCDCCJ-105/2023,2023-05-11,China,Xinjiang,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_17795752,hCoV-19/Jiangsu/YZCDC-235/2023,2023-05-11,China,Jiangsu,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17951335,hCoV-19/Shanxi/TYCDC-168/2023,2023-05-11,China,Shanxi,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17697775,hCoV-19/Guangdong/GDCDC_GZ_0393/2023,2023-05-11,China,Guangdong,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17951304,hCoV-19/Shanxi/TYCDC-170/2023,2023-05-11,China,Shanxi,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17724946,hCoV-19/Shanghai/SCDC-HG0515-724/2023,2023-05-11,China,Shanghai,FL.2.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.4,23D (XBB.1.9),XBB
+EPI_ISL_17718409,hCoV-19/Sichuan/YACDC-XGCX052/2023,2023-05-11,China,Sichuan,EG.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.2,23D (XBB.1.9),XBB
+EPI_ISL_17739759,hCoV-19/Heilongjiang/HLJCDC-1224/2023,2023-05-11,China,Heilongjiang,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17697566,hCoV-19/Guangdong/GDCDC_GZ_0403/2023,2023-05-12,China,Guangdong,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18034977,hCoV-19/Guangdong/GDCDC_SZ_0735/2023,2023-05-13,China,Guangdong,XBB.1.5.94,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.94,23A (XBB.1.5),XBB
+EPI_ISL_17739725,hCoV-19/Heilongjiang/HLJCDC-1206/2023,2023-05-14,China,Heilongjiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.37,23D (XBB.1.9),XBB
+EPI_ISL_17794849,hCoV-19/Jiangxi/JXSR-067/2023,2023-05-14,China,Jiangxi,GR.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.42.1,23A (XBB.1.5),XBB
+EPI_ISL_17739622,hCoV-19/Heilongjiang/HLJCDC-1207/2023,2023-05-14,China,Heilongjiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.37,23D (XBB.1.9),XBB
+EPI_ISL_17794983,hCoV-19/Jiangxi/JXYT-049/2023,2023-05-14,China,Jiangxi,GJ.3,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.3.3,23E (XBB.2.3),XBB
+EPI_ISL_17739633,hCoV-19/Heilongjiang/HLJCDC-1189/2023,2023-05-14,China,Heilongjiang,FL.5,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.5,23D (XBB.1.9),XBB
+EPI_ISL_17879884,hCoV-19/Sichuan/MSCDC-50/2023,2023-05-14,China,Sichuan,XBB.1.16.19,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.19,23B (XBB.1.16),XBB
+EPI_ISL_17794989,hCoV-19/Jiangxi/JXYT-055/2023,2023-05-14,China,Jiangxi,GY.6,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.6,23B (XBB.1.16),XBB
+EPI_ISL_17879886,hCoV-19/Sichuan/MSCDC-36/2023,2023-05-14,China,Sichuan,FL.5,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17729993,hCoV-19/Qinghai/QHCDC-HNZYY-39/2023,2023-05-15,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17770330,hCoV-19/Shanghai/SCDC-XG05-5624/2023,2023-05-15,China,Shanghai,FL.5,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17794560,hCoV-19/Jiangxi/JXJJ-136/2023,2023-05-15,China,Jiangxi,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17696742,hCoV-19/Shanxi/JCCDC-JCCX0177/2023,2023-05-15,China,Shanxi,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17769921,hCoV-19/Qinghai/QHCDC-HSZ-227/2023,2023-05-15,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17696744,hCoV-19/Shanxi/JCCDC-JCCX0164/2023,2023-05-15,China,Shanxi,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_17696749,hCoV-19/Shanxi/JCCDC-JCCX0169/2023,2023-05-15,China,Shanxi,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17795624,hCoV-19/Jiangsu/SZCDC-519/2023,2023-05-15,China,Jiangsu,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18035082,hCoV-19/Guangdong/GDCDC_SZ_0849/2023,2023-05-15,China,Guangdong,EG.1.8,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.1.8,23D (XBB.1.9),XBB
+EPI_ISL_17775489,hCoV-19/Xinjiang/XJCDCKLMY-124/2023,2023-05-15,China,Xinjiang,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_18049704,hCoV-19/Beijing/BJCDC-1865/2023,2023-05-15,China,Beijing,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17703980,hCoV-19/Fujian/FCDC-LY0997/2023,2023-05-15,China,Fujian,FL.18.1.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.18.1.1,23D (XBB.1.9),XBB
+EPI_ISL_18049409,hCoV-19/Beijing/BJCDC-2054/2023,2023-05-16,China,Beijing,FL.4.5,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.5,23D (XBB.1.9),XBB
+EPI_ISL_17714346,hCoV-19/Hubei/HCDC-XY1584/2023,2023-05-16,China,Hubei,XBB.1.24.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.24.3,22F (XBB),XBB
+EPI_ISL_18033785,hCoV-19/Guangdong/GDCDC_GZ_0439/2023,2023-05-16,China,Guangdong,FL.4.6,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.6,23D (XBB.1.9),XBB
+EPI_ISL_17729982,hCoV-19/Qinghai/QHCDC-GEMYY-24/2023,2023-05-16,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17801766,hCoV-19/Fujian/FCDC-FZLG01874/2023,2023-05-16,China,Fujian,FP.4,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.11.1.4,22F (XBB),XBB
+EPI_ISL_17801769,hCoV-19/Fujian/FCDC-FZLG01883/2023,2023-05-16,China,Fujian,FL.5,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.5,23D (XBB.1.9),XBB
+EPI_ISL_17795021,hCoV-19/Henan/LHCDC-0132/2023,2023-05-16,China,Henan,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17850636,hCoV-19/Liaoning/LNCDC-157-3/2023,2023-05-16,China,Liaoning,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.28,23A (XBB.1.5),XBB
+EPI_ISL_17987969,hCoV-19/Anhui/HSCDC-63/2023,2023-05-16,China,Anhui,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17794608,hCoV-19/Jiangxi/JXML-494/2023,2023-05-16,China,Jiangxi,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17978475,hCoV-19/Jiangsu/WXCDC-291/2023,2023-05-16,China,Jiangsu,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17793993,hCoV-19/Anhui/HBCDC-C44/2023,2023-05-16,China,Anhui,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17794734,hCoV-19/Jiangxi/JXNC-267/2023,2023-05-16,China,Jiangxi,EG.1.8,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.1.8,23D (XBB.1.9),XBB
+EPI_ISL_17744636,hCoV-19/Yunnan/YNCDC-0893/2023,2023-05-16,China,Yunnan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17744776,hCoV-19/Yunnan/YNCDC-0777/2023,2023-05-17,China,Yunnan,FL.13.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.13,23D (XBB.1.9),XBB
+EPI_ISL_17730028,hCoV-19/Qinghai/QHCDC-QHSYY-349/2023,2023-05-17,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_18035112,hCoV-19/Guangdong/GDCDC_SZ_1023/2023,2023-05-17,China,Guangdong,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17795034,hCoV-19/Sichuan/LZCDC-86-W-J/2023,2023-05-17,China,Sichuan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17730009,hCoV-19/Qinghai/QHCDC-HXZYY-35/2023,2023-05-17,China,Qinghai,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_17999302,hCoV-19/Gansu/GSCDC-0354/2023,2023-05-17,China,Gansu,FL.2.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.4,23D (XBB.1.9),XBB
+EPI_ISL_18105507,hCoV-19/Hubei/HCDC-XN2516/2023,2023-05-18,China,Hubei,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_17998876,hCoV-19/Gansu/GSCDC-0397/2023,2023-05-18,China,Gansu,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17850697,hCoV-19/Liaoning/LNCDC-180-2/2023,2023-05-18,China,Liaoning,XBB.1.5.59,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.59,23A (XBB.1.5),XBB
+EPI_ISL_17795701,hCoV-19/Jiangsu/YCCDC-216/2023,2023-05-18,China,Jiangsu,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18012389,hCoV-19/Sichuan/PZHCDC-052207/2023,2023-05-18,China,Sichuan,XBB.1.16.18,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.18,23B (XBB.1.16),XBB
+EPI_ISL_18036973,hCoV-19/Guangdong/GDCDC_ZHHG_0104/2023,2023-05-18,China,Guangdong,XBB.1.5.7,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.7,23A (XBB.1.5),XBB
+EPI_ISL_18049666,hCoV-19/Beijing/BJCDC-2044/2023,2023-05-18,China,Beijing,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18036981,hCoV-19/Guangdong/GDCDC_ZHHG_0112/2023,2023-05-19,China,Guangdong,FE.1.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.18.1.1.1,22F (XBB),XBB
+EPI_ISL_17730037,hCoV-19/Shanxi/SZCDC-SZ021/2023,2023-05-19,China,Shanxi,XBB.1.5.24,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24,23A (XBB.1.5),XBB
+EPI_ISL_17794751,hCoV-19/Jiangxi/JXNC-285/2023,2023-05-19,China,Jiangxi,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17837066,hCoV-19/Anhui/AQCDC-090/2023,2023-05-19,China,Anhui,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17794405,hCoV-19/Jiangxi/JXGZ-257/2023,2023-05-19,China,Jiangxi,GB.2,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.46.2,23A (XBB.1.5),XBB
+EPI_ISL_17778646,hCoV-19/Yunnan/YNCDC-0958/2023,2023-05-19,China,Yunnan,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_18495898,hCoV-19/Gansu/QYCDC-0513/2023,2023-05-19,China,Gansu,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_18034052,hCoV-19/Guangdong/GDCDC_GZHG_0810/2023,2023-05-20,China,Guangdong,GR.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.42.1,23A (XBB.1.5),XBB
+EPI_ISL_17951383,hCoV-19/Shanxi/TYCDC-186/2023,2023-05-20,China,Shanxi,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17951413,hCoV-19/Shanxi/TYCDC-177/2023,2023-05-20,China,Shanxi,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17951328,hCoV-19/Shanxi/TYCDC-176/2023,2023-05-20,China,Shanxi,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17775616,hCoV-19/Xinjiang/XJCDCALT-066/2023,2023-05-20,China,Xinjiang,FL.4.11,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.11,23D (XBB.1.9),XBB
+EPI_ISL_18495892,hCoV-19/Gansu/QYCDC-0497/2023,2023-05-20,China,Gansu,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17794997,hCoV-19/Jiangxi/JXYT-063/2023,2023-05-21,China,Jiangxi,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17801775,hCoV-19/Fujian/FCDC-FZLG01932/2023,2023-05-21,China,Fujian,HH.1,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.2.1,23E (XBB.2.3),XBB
+EPI_ISL_18049673,hCoV-19/Beijing/BJCDC-2037/2023,2023-05-21,China,Beijing,XBB.2.3.7,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.7,23E (XBB.2.3),XBB
+EPI_ISL_18033823,hCoV-19/Guangdong/GDCDC_GZ_0483/2023,2023-05-22,China,Guangdong,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17795002,hCoV-19/Jiangxi/JXYT-069/2023,2023-05-22,China,Jiangxi,FL.21.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.21.2,23D (XBB.1.9),XBB
+EPI_ISL_17729945,hCoV-19/Hubei/HCDC-WH1676/2023,2023-05-22,China,Hubei,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17770410,hCoV-19/Qinghai/QHCDC-HNZYY-52/2023,2023-05-22,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17978429,hCoV-19/Jiangsu/SZCDC-598/2023,2023-05-22,China,Jiangsu,FE.1.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.18.1.1.1,22F (XBB),XBB
+EPI_ISL_17850678,hCoV-19/Liaoning/LNCDC-175-16/2023,2023-05-22,China,Liaoning,FL.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.1,23D (XBB.1.9),XBB
+EPI_ISL_18049440,hCoV-19/Beijing/BJCDC-2049/2023,2023-05-22,China,Beijing,FL.4.6,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.6,23D (XBB.1.9),XBB
+EPI_ISL_17850673,hCoV-19/Liaoning/LNCDC-173-3/2023,2023-05-23,China,Liaoning,FL.2.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.4,23D (XBB.1.9),XBB
+EPI_ISL_18034898,hCoV-19/Guangdong/GDCDC_ST_0180/2023,2023-05-23,China,Guangdong,FL.4.11,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.11,23D (XBB.1.9),XBB
+EPI_ISL_17998861,hCoV-19/Gansu/GSCDC-0382/2023,2023-05-23,China,Gansu,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_17739849,hCoV-19/Heilongjiang/HLJCDC-1264/2023,2023-05-23,China,Heilongjiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17836983,hCoV-19/Gansu/PLCDC-0072/2023,2023-05-23,China,Gansu,XBB.1.21,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.21,22F (XBB),XBB
+EPI_ISL_17794999,hCoV-19/Jiangxi/JXYT-066/2023,2023-05-23,China,Jiangxi,XBB.1.16.22,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.22,23B (XBB.1.16),XBB
+EPI_ISL_17778768,hCoV-19/Gansu/PLCDC-0061/2023,2023-05-23,China,Gansu,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_18034660,hCoV-19/Guangdong/GDCDC_MM_0102/2023,2023-05-23,China,Guangdong,FL.2.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.4,23D (XBB.1.9),XBB
+EPI_ISL_17987971,hCoV-19/Anhui/HSCDC-65/2023,2023-05-23,China,Anhui,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17739862,hCoV-19/Heilongjiang/HLJCDC-1318/2023,2023-05-23,China,Heilongjiang,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18049373,hCoV-19/Beijing/BJCDC-2306/2023,2023-05-24,China,Beijing,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17785353,hCoV-19/Shanxi/SZCDC-SZ024/2023,2023-05-24,China,Shanxi,EG.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.2,23D (XBB.1.9),XBB
+EPI_ISL_18049441,hCoV-19/Beijing/BJCDC-2312/2023,2023-05-24,China,Beijing,GJ.3,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.3.3,23E (XBB.2.3),XBB
+EPI_ISL_18013154,hCoV-19/Anhui/WHCDC-207-2/2023,2023-05-24,China,Anhui,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17729932,hCoV-19/Hubei/HCDC-JZ1729/2023,2023-05-24,China,Hubei,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17988188,hCoV-19/Jiangsu/NJCDC-388/2023,2023-05-24,China,Jiangsu,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17770408,hCoV-19/Qinghai/QHCDC-HD1Y-37/2023,2023-05-24,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17808350,hCoV-19/Yunnan/YNCDC-1198/2023,2023-05-25,China,Yunnan,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_17802001,hCoV-19/Fujian/FCDC-XM052505/2023,2023-05-25,China,Fujian,XBB.1.9.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2,23D (XBB.1.9),XBB
+EPI_ISL_17817009,hCoV-19/Henan/ZMDCDC-162/2023,2023-05-25,China,Henan,FD.2,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.15,23A (XBB.1.5),XBB
+EPI_ISL_17830333,hCoV-19/Hubei/HCDC-SNJ2058/2023,2023-05-25,China,Hubei,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_17978370,hCoV-19/Jiangsu/CZCDC-137/2023,2023-05-25,China,Jiangsu,FY.3.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.3,22F (XBB),XBB
+EPI_ISL_17836262,hCoV-19/Xinjiang/XJCDCTLF-049/2023,2023-05-26,China,Xinjiang,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17778573,hCoV-19/Sichuan/DZCDC-CX0040/2023,2023-05-26,China,Sichuan,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_18012332,hCoV-19/Gansu/TSCDC-061402/2023,2023-05-26,China,Gansu,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_17770416,hCoV-19/Qinghai/QHCDC-QHS4Y-209/2023,2023-05-26,China,Qinghai,EU.1.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.26.1.1,23A (XBB.1.5),XBB
+EPI_ISL_17795136,hCoV-19/Shanghai/SCDC-HG0529-1305/2023,2023-05-26,China,Shanghai,FP.4,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.11.1.4,22F (XBB),XBB
+EPI_ISL_17794117,hCoV-19/Hubei/HCDC-JZ1810/2023,2023-05-26,China,Hubei,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17850702,hCoV-19/Liaoning/LNCDC-183-2/2023,2023-05-26,China,Liaoning,XBB.1.16.18,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.18,23B (XBB.1.16),XBB
+EPI_ISL_17794954,hCoV-19/Jiangxi/JXYC-488/2023,2023-05-26,China,Jiangxi,FL.21.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.21.2,23D (XBB.1.9),XBB
+EPI_ISL_17850685,hCoV-19/Liaoning/LNCDC-178-2/2023,2023-05-26,China,Liaoning,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17850731,hCoV-19/Liaoning/LNCDC-192-79/2023,2023-05-27,China,Liaoning,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17850285,hCoV-19/Heilongjiang/HLJCDC-1391/2023,2023-05-27,China,Heilongjiang,FL.5,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.5,23D (XBB.1.9),XBB
+EPI_ISL_17785319,hCoV-19/Qinghai/QCDC-HNZYY-78/2023,2023-05-28,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17850287,hCoV-19/Heilongjiang/HLJCDC-1393/2023,2023-05-28,China,Heilongjiang,FL.4.6,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.6,23D (XBB.1.9),XBB
+EPI_ISL_17794064,hCoV-19/Hubei/HCDC-ES1840/2023,2023-05-28,China,Hubei,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18495884,hCoV-19/Gansu/QYCDC-0482/2023,2023-05-28,China,Gansu,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17962821,hCoV-19/Sichuan/BZCDC-033/2023,2023-05-28,China,Sichuan,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_17989000,hCoV-19/Sichuan/PZHCDC-061209/2023,2023-05-29,China,Sichuan,FP.4,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.11.1.4,22F (XBB),XBB
+EPI_ISL_17794196,hCoV-19/Hubei/HCDC-WH1825/2023,2023-05-29,China,Hubei,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17850698,hCoV-19/Liaoning/LNCDC-181-5/2023,2023-05-29,China,Liaoning,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17850301,hCoV-19/Heilongjiang/HLJCDC-1407/2023,2023-05-29,China,Heilongjiang,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18035273,hCoV-19/Guangdong/GDCDC_SZ_1592/2023,2023-05-29,China,Guangdong,XBB.1.9.5,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",23D,XBB.1.9.5,23D (XBB.1.9),XBB
+EPI_ISL_17998887,hCoV-19/Gansu/GSCDC-0408/2023,2023-05-29,China,Gansu,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17785318,hCoV-19/Qinghai/QCDC-HD1Y-44/2023,2023-05-29,China,Qinghai,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17794863,hCoV-19/Jiangxi/JXSR-081/2023,2023-05-29,China,Jiangxi,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17794582,hCoV-19/Jiangxi/JXJJ-158/2023,2023-05-29,China,Jiangxi,GW.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.19.1.1,22F (XBB),XBB
+EPI_ISL_18049531,hCoV-19/Beijing/BJCDC-2580/2023,2023-05-29,China,Beijing,EG.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.2,23D (XBB.1.9),XBB
+EPI_ISL_17962829,hCoV-19/Sichuan/BZCDC-035/2023,2023-05-30,China,Sichuan,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_18034335,hCoV-19/Guangdong/GDCDC_GZHG_1056/2023,2023-05-30,China,Guangdong,XBB.2.3.5,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.5,23E (XBB.2.3),XBB
+EPI_ISL_17808189,hCoV-19/Sichuan/SNCDC-CX026/2023,2023-05-30,China,Sichuan,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18006129,hCoV-19/Henan/LHCDC-0163/2023,2023-05-31,China,Henan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18006128,hCoV-19/Henan/LHCDC-0162/2023,2023-05-31,China,Henan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18006125,hCoV-19/Henan/LHCDC-0158/2023,2023-05-31,China,Henan,EG.4.1,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.4.1,23D (XBB.1.9),XBB
+EPI_ISL_18049464,hCoV-19/Beijing/BJCDC-2623/2023,2023-05-31,China,Beijing,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17785320,hCoV-19/Qinghai/QCDC-HNZYY-85/2023,2023-05-31,China,Qinghai,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17801805,hCoV-19/Fujian/FCDC-FZLG2291/2023,2023-05-31,China,Fujian,FL.4.6,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.6,23D (XBB.1.9),XBB
+EPI_ISL_18060855,hCoV-19/Sichuan/DYCDC-0142/2023,2023-05-31,China,Sichuan,FL.5,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17951265,hCoV-19/Qinghai/QHCDC-ETYY-247/2023,2023-05-31,China,Qinghai,XBB.1.5.59,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.59,23A (XBB.1.5),XBB
+EPI_ISL_18213313,hCoV-19/Henan/XXCDC-060702/2023,2023-05-31,China,Henan,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17808191,hCoV-19/Sichuan/SNCDC-CX029/2023,2023-05-31,China,Sichuan,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18495862,hCoV-19/Gansu/QYCDC-0504/2023,2023-06-01,China,Gansu,FL.22,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.22,23D (XBB.1.9),XBB
+EPI_ISL_17785333,hCoV-19/Qinghai/QCDC-QHS4Y-224/2023,2023-06-01,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17808273,hCoV-19/Yunnan/YNCDC-1120/2023,2023-06-01,China,Yunnan,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_17850336,hCoV-19/Heilongjiang/HLJCDC-1444/2023,2023-06-01,China,Heilongjiang,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18438112,hCoV-19/Beijing/BJCDC-2780/2023,2023-06-01,China,Beijing,GY.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.1,23B (XBB.1.16),XBB
+EPI_ISL_18438086,hCoV-19/Beijing/BJCDC-2779/2023,2023-06-01,China,Beijing,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17998837,hCoV-19/Gansu/GSCDC-0358/2023,2023-06-02,China,Gansu,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_18036208,hCoV-19/Guangdong/GDCDC_SZHG_1629/2023,2023-06-02,China,Guangdong,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18495873,hCoV-19/Gansu/QYCDC-0536/2023,2023-06-02,China,Gansu,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17801853,hCoV-19/Hubei/HCDC-WH1946/2023,2023-06-02,China,Hubei,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17810994,hCoV-19/Shanghai/SCDC-HG0602-1547/2023,2023-06-02,China,Shanghai,FL.2.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.4,23D (XBB.1.9),XBB
+EPI_ISL_17801849,hCoV-19/Hubei/HCDC-WH1942/2023,2023-06-03,China,Hubei,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17801811,hCoV-19/Fujian/FCDC-FZLG2317/2023,2023-06-03,China,Fujian,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17830448,hCoV-19/Yunnan/YNCDC-1365/2023,2023-06-03,China,Yunnan,FL.35,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.35,23D (XBB.1.9),XBB
+EPI_ISL_17978403,hCoV-19/Jiangsu/LYGCDC-149/2023,2023-06-03,China,Jiangsu,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_17794436,hCoV-19/Jiangxi/JXGZ-288/2023,2023-06-03,China,Jiangxi,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17836760,hCoV-19/Shanghai/SCDC-XG06-8002/2023,2023-06-04,China,Shanghai,XBB.1.16.3,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.3,23B (XBB.1.16),XBB
+EPI_ISL_17850374,hCoV-19/Heilongjiang/HLJCDC-1485/2023,2023-06-04,China,Heilongjiang,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17808368,hCoV-19/Yunnan/YNCDC-1216/2023,2023-06-04,China,Yunnan,XBB.2.3.5,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.5,23E (XBB.2.3),XBB
+EPI_ISL_18438237,hCoV-19/Beijing/BJCDC-2773/2023,2023-06-04,China,Beijing,XBB.1.42.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_17785323,hCoV-19/Qinghai/QCDC-HSZ-278/2023,2023-06-04,China,Qinghai,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18037052,hCoV-19/Guangdong/GDCDC_ZHHG_0199/2023,2023-06-05,China,Guangdong,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18438186,hCoV-19/Beijing/BJCDC-2736/2023,2023-06-05,China,Beijing,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18438063,hCoV-19/Beijing/BJCDC-2756/2023,2023-06-05,China,Beijing,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17850328,hCoV-19/Heilongjiang/HLJCDC-1434/2023,2023-06-05,China,Heilongjiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.37,23D (XBB.1.9),XBB
+EPI_ISL_17998868,hCoV-19/Gansu/GSCDC-0389/2023,2023-06-05,China,Gansu,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18438238,hCoV-19/Beijing/BJCDC-2783/2023,2023-06-05,China,Beijing,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17794772,hCoV-19/Jiangxi/JXNC-328/2023,2023-06-06,China,Jiangxi,FL.4.6,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.6,23D (XBB.1.9),XBB
+EPI_ISL_17998889,hCoV-19/Gansu/GSCDC-0410/2023,2023-06-06,China,Gansu,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18438158,hCoV-19/Beijing/BJCDC-2741/2023,2023-06-06,China,Beijing,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17998996,hCoV-19/Xinjiang/XJCDCKS-135/2023,2023-06-06,China,Xinjiang,XBB.1.22.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1,22F (XBB),XBB
+EPI_ISL_17951270,hCoV-19/Qinghai/QHCDC-QHSYY-508/2023,2023-06-07,China,Qinghai,GB.2,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.46.2,23A (XBB.1.5),XBB
+EPI_ISL_17972858,hCoV-19/Liaoning/LNCDC-200-13/2023,2023-06-07,China,Liaoning,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17999289,hCoV-19/Zhejiang/SKLID_ZJU-S98/2023,2023-06-07,China,Zhejiang,FE.1.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.18.1.1.1,22F (XBB),XBB
+EPI_ISL_17836977,hCoV-19/Shanghai/SCDC-HG0609-1864/2023,2023-06-07,China,Shanghai,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_18438214,hCoV-19/Beijing/BJCDC-2760/2023,2023-06-08,China,Beijing,FE.1.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.18.1.1.1,22F (XBB),XBB
+EPI_ISL_18438250,hCoV-19/Beijing/BJCDC-2747/2023,2023-06-08,China,Beijing,XBB.1.42.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_18438069,hCoV-19/Beijing/BJCDC-2758/2023,2023-06-08,China,Beijing,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17999244,hCoV-19/Zhejiang/SKLID_ZJU-S100/2023,2023-06-08,China,Zhejiang,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17972907,hCoV-19/Liaoning/LNCDC-216-19/2023,2023-06-08,China,Liaoning,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_18438081,hCoV-19/Beijing/BJCDC-2800/2023,2023-06-09,China,Beijing,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17850788,hCoV-19/Sichuan/YACDC-XGCX088/2023,2023-06-09,China,Sichuan,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17972937,hCoV-19/Liaoning/LNCDC-215-3/2023,2023-06-09,China,Liaoning,EG.4.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.4.2,23D (XBB.1.9),XBB
+EPI_ISL_18495163,hCoV-19/Shanxi/TYCDC232/2023,2023-06-09,China,Shanxi,XBB.1.5.100,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.100,23A (XBB.1.5),XBB
+EPI_ISL_17999257,hCoV-19/Zhejiang/SKLID_ZJU-S113/2023,2023-06-09,China,Zhejiang,XBB.1.22.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1,22F (XBB),XBB
+EPI_ISL_17850188,hCoV-19/Fujian/FCDC-NPqz87/2023,2023-06-10,China,Fujian,HH.1,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.2.1,23E (XBB.2.3),XBB
+EPI_ISL_17972982,hCoV-19/Shanxi/JCCDC-JCCX0281/2023,2023-06-10,China,Shanxi,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17978628,hCoV-19/Xinjiang/XJCDCKLMY-154/2023,2023-06-11,China,Xinjiang,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17972872,hCoV-19/Liaoning/LNCDC-216-2/2023,2023-06-12,China,Liaoning,GW.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.19.1.1,22F (XBB),XBB
+EPI_ISL_17998910,hCoV-19/Xinjiang/XJCDCALT-095/2023,2023-06-12,China,Xinjiang,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17989074,hCoV-19/Sichuan/ZYCDC-YJ0262/2023,2023-06-12,China,Sichuan,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17850409,hCoV-19/Heilongjiang/HLJCDC-1525/2023,2023-06-12,China,Heilongjiang,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17978644,hCoV-19/Xinjiang/XJCDCKZ-093/2023,2023-06-12,China,Xinjiang,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_17817032,hCoV-19/Hubei/HCDC-WH2036/2023,2023-06-12,China,Hubei,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_17972960,hCoV-19/Henan/PYCDC-lg576/2023,2023-06-12,China,Henan,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_17972861,hCoV-19/Liaoning/LNCDC-216-49/2023,2023-06-12,China,Liaoning,EG.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.2,23D (XBB.1.9),XBB
+EPI_ISL_17999266,hCoV-19/Zhejiang/SKLID_ZJU-S122/2023,2023-06-13,China,Zhejiang,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17978639,hCoV-19/Xinjiang/XJCDCKS-144/2023,2023-06-13,China,Xinjiang,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18213290,hCoV-19/Henan/XXCDC-061416/2023,2023-06-13,China,Henan,XBB.1.22.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1,22F (XBB),XBB
+EPI_ISL_17850436,hCoV-19/Heilongjiang/HLJCDC-1554/2023,2023-06-13,China,Heilongjiang,EG.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.2,23D (XBB.1.9),XBB
+EPI_ISL_17978637,hCoV-19/Xinjiang/XJCDCKS-142/2023,2023-06-13,China,Xinjiang,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17978630,hCoV-19/Xinjiang/XJCDCKLMY-156/2023,2023-06-13,China,Xinjiang,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17850405,hCoV-19/Heilongjiang/HLJCDC-1521/2023,2023-06-13,China,Heilongjiang,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18213269,hCoV-19/Henan/XXCDC-062005/2023,2023-06-13,China,Henan,GJ.3,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.3.3,23E (XBB.2.3),XBB
+EPI_ISL_17956918,hCoV-19/Shanghai/SCDC-XG06-8897/2023,2023-06-13,China,Shanghai,EU.1.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.26.1.1,23A (XBB.1.5),XBB
+EPI_ISL_17836832,hCoV-19/Shanghai/SCDC-HG0616-2073/2023,2023-06-14,China,Shanghai,GS.1,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.11.1,23E (XBB.2.3),XBB
+EPI_ISL_17850197,hCoV-19/Fujian/FCDC-PTN163/2023,2023-06-14,China,Fujian,FL.18,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.18,23D (XBB.1.9),XBB
+EPI_ISL_17978652,hCoV-19/Xinjiang/XJCDCTC-119/2023,2023-06-14,China,Xinjiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17978649,hCoV-19/Xinjiang/XJCDCTC-116/2023,2023-06-15,China,Xinjiang,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_17850854,hCoV-19/Yunnan/YNCDC-1400/2023,2023-06-15,China,Yunnan,XBB.2.3.5,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.5,23E (XBB.2.3),XBB
+EPI_ISL_17837021,hCoV-19/Hubei/HCDC-WH2097/2023,2023-06-15,China,Hubei,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_18013139,hCoV-19/Henan/ZKCDC-63/2023,2023-06-16,China,Henan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17988020,hCoV-19/Qinghai/QHCDC-ETYY-252/2023,2023-06-16,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_18137981,hCoV-19/Gansu/GSCDC-0439/2023,2023-06-16,China,Gansu,GJ.3,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.3.3,23E (XBB.2.3),XBB
+EPI_ISL_17972882,hCoV-19/Liaoning/LNCDC-220-3/2023,2023-06-16,China,Liaoning,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17987613,hCoV-19/Shanghai/SCDC-XG06-9513/2023,2023-06-17,China,Shanghai,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17966476,hCoV-19/Yunnan/YNCDC-1595/2023,2023-06-17,China,Yunnan,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18213310,hCoV-19/Henan/XXCDC-062013/2023,2023-06-18,China,Henan,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17999238,hCoV-19/Henan/XYCDC-0173/2023,2023-06-18,China,Henan,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_17956735,hCoV-19/Tianjn/TJCDC0630-7/2023,2023-06-18,China,Tianjin,XBB.1.16.18,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.18,23B (XBB.1.16),XBB
+EPI_ISL_17850505,hCoV-19/Heilongjiang/HLJCDC-1626/2023,2023-06-18,China,Heilongjiang,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17956731,hCoV-19/Tianjn/TJCDC0630-5/2023,2023-06-18,China,Tianjin,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_17850926,hCoV-19/Yunnan/YNCDC-1473/2023,2023-06-18,China,Yunnan,GY.7,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.7,23B (XBB.1.16),XBB
+EPI_ISL_17956690,hCoV-19/Tianjn/TJCDC0630-12/2023,2023-06-19,China,Tianjin,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17956692,hCoV-19/Tianjn/TJCDC0630-14/2023,2023-06-19,China,Tianjin,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17988021,hCoV-19/Qinghai/QHCDC-ETYY-255/2023,2023-06-19,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17987975,hCoV-19/Gansu/BYCDC108/2023,2023-06-19,China,Gansu,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18006140,hCoV-19/Henan/LHCDC-0188/2023,2023-06-19,China,Henan,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17850510,hCoV-19/Heilongjiang/HLJCDC-1631/2023,2023-06-19,China,Heilongjiang,EG.1,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.1,23D (XBB.1.9),XBB
+EPI_ISL_17850513,hCoV-19/Heilongjiang/HLJCDC-1634/2023,2023-06-19,China,Heilongjiang,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17972864,hCoV-19/Liaoning/LNCDC-225-4/2023,2023-06-19,China,Liaoning,EG.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.2,23D (XBB.1.9),XBB
+EPI_ISL_17956711,hCoV-19/Tianjn/TJCDC0630-31/2023,2023-06-20,China,Tianjin,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18037096,hCoV-19/Guangdong/GDCDC_ZHHG_0222/2023,2023-06-20,China,Guangdong,FU.2.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.2.1,23B (XBB.1.16),XBB
+EPI_ISL_17956701,hCoV-19/Tianjn/TJCDC0630-22/2023,2023-06-20,China,Tianjin,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17988023,hCoV-19/Qinghai/QHCDC-HD1Y-65/2023,2023-06-20,China,Qinghai,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_17972899,hCoV-19/Liaoning/LNCDC-223-4/2023,2023-06-20,China,Liaoning,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18105947,hCoV-19/Jiangsu/WXCDC420/2023,2023-06-20,China,Jiangsu,XBB.1.16.2,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2,23B (XBB.1.16),XBB
+EPI_ISL_17978586,hCoV-19/Shanxi/SXJZCDC-L1060/2023,2023-06-21,China,Shanxi,FL.13.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.13.2,23D (XBB.1.9),XBB
+EPI_ISL_17956746,hCoV-19/Fujian/FCDC-XM061529/2023,2023-06-21,China,Fujian,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_17956713,hCoV-19/Tianjn/TJCDC0630-33/2023,2023-06-21,China,Tianjin,XBB.2.3.2,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.2.7,23E (XBB.2.3),XBB
+EPI_ISL_17956714,hCoV-19/Tianjn/TJCDC0630-34/2023,2023-06-21,China,Tianjin,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17956712,hCoV-19/Tianjn/TJCDC0630-32/2023,2023-06-21,China,Tianjin,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17956760,hCoV-19/Fujian/FCDC-FZLG2976/2023,2023-06-21,China,Fujian,GY.5,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.5,23B (XBB.1.16),XBB
+EPI_ISL_17956702,hCoV-19/Tianjn/TJCDC0630-23/2023,2023-06-21,China,Tianjin,XBB.2.3.6,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.6,23E (XBB.2.3),XBB
+EPI_ISL_17987996,hCoV-19/Henan/XCCDC062909/2023,2023-06-22,China,Henan,FE.1.1.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.18.1.1.1.3,22F (XBB),XBB
+EPI_ISL_17966386,hCoV-19/Yunnan/YNCDC-1495/2023,2023-06-22,China,Yunnan,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18095790,hCoV-19/Henan/ZMDCDC-204/2023,2023-06-23,China,Henan,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17956718,hCoV-19/Tianjn/TJCDC0630-38/2023,2023-06-23,China,Tianjin,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17956722,hCoV-19/Tianjn/TJCDC0630-41/2023,2023-06-23,China,Tianjin,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_17956717,hCoV-19/Tianjn/TJCDC0630-37/2023,2023-06-23,China,Tianjin,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17956706,hCoV-19/Tianjn/TJCDC0630-27/2023,2023-06-23,China,Tianjin,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_17956694,hCoV-19/Tianjn/TJCDC0630-16/2023,2023-06-24,China,Tianjin,XBB.2.3.2,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.2.7,23E (XBB.2.3),XBB
+EPI_ISL_17956693,hCoV-19/Tianjn/TJCDC0630-15/2023,2023-06-24,China,Tianjin,FY.3.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.3,22F (XBB),XBB
+EPI_ISL_18108788,hCoV-19/Xinjiang/XJCDCKLMY-177/2023,2023-06-25,China,Xinjiang,FL.4.10,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.10,23D (XBB.1.9),XBB
+EPI_ISL_17956721,hCoV-19/Tianjn/TJCDC0630-40/2023,2023-06-25,China,Tianjin,XBB.2.3.2,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.2.7,23E (XBB.2.3),XBB
+EPI_ISL_17966376,hCoV-19/Yunnan/YNCDC-1484/2023,2023-06-25,China,Yunnan,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_17956719,hCoV-19/Tianjn/TJCDC0630-39/2023,2023-06-25,China,Tianjin,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18138295,hCoV-19/Shanxi/JCCDC-JCCX0312/2023,2023-06-25,China,Shanxi,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_17988025,hCoV-19/Qinghai/QHCDC-HNZYY-123/2023,2023-06-25,China,Qinghai,FY.3.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.3,22F (XBB),XBB
+EPI_ISL_18037342,hCoV-19/Jiangsu/NJCDC-460/2023,2023-06-25,China,Jiangsu,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_17999119,hCoV-19/Fujian/FCDC-SM07001/2023,2023-06-25,China,Fujian,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_18108842,hCoV-19/Xinjiang/XJCDCTLF-75/2023,2023-06-26,China,Xinjiang,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_17956730,hCoV-19/Tianjn/TJCDC0630-49/2023,2023-06-26,China,Tianjin,GY.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.1,23B (XBB.1.16),XBB
+EPI_ISL_17962819,hCoV-19/Gansu/PLCDC-0086/2023,2023-06-26,China,Gansu,XBB.1.5.57,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.57,23A (XBB.1.5),XBB
+EPI_ISL_18049770,hCoV-19/Liaoning/LNCDC-239-3/2023,2023-06-26,China,Liaoning,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_18105362,hCoV-19/Jiangsu/WXCDC-427/2023,2023-06-27,China,Jiangsu,FY.3.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.3,22F (XBB),XBB
+EPI_ISL_18033899,hCoV-19/Guangdong/GDCDC_GZ_0574/2023,2023-06-27,China,Guangdong,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18055646,hCoV-19/Heilongjiang/HLJCDC-1729/2023,2023-06-27,China,Heilongjiang,XBB.1.24.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.24.3,22F (XBB),XBB
+EPI_ISL_17987877,hCoV-19/Yunnan/YNCDC-1620/2023,2023-06-27,China,Yunnan,GY.3,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.3,23B (XBB.1.16),XBB
+EPI_ISL_18074478,hCoV-19/Shanghai/SCDC-MH062912/2023,2023-06-27,China,Shanghai,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_18037331,hCoV-19/Jiangsu/CZCDC-209/2023,2023-06-28,China,Jiangsu,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18130537,hCoV-19/Sichuan/BZCDC-057/2023,2023-06-28,China,Sichuan,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18495253,hCoV-19/Shanxi/TYCDC322/2023,2023-06-29,China,Shanxi,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18130524,hCoV-19/Liaoning/LNCDC-234-5/2023,2023-06-29,China,Liaoning,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17989015,hCoV-19/Sichuan/YACDC-XGCX103/2023,2023-06-29,China,Sichuan,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_17987932,hCoV-19/Yunnan/YNCDC-1671/2023,2023-06-29,China,Yunnan,FL.13,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.13.4,23D (XBB.1.9),XBB
+EPI_ISL_17988041,hCoV-19/Qinghai/QHCDC-ETYY-258/2023,2023-06-30,China,Qinghai,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_17987497,hCoV-19/Shanghai/SCDC-HG0703-2464/2023,2023-06-30,China,Shanghai,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_18037349,hCoV-19/Jiangsu/NTCDC-161/2023,2023-06-30,China,Jiangsu,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18055881,hCoV-19/Yunnan/YNCDC-1879/2023,2023-07-01,China,Yunnan,FL.16,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.16,23D (XBB.1.9),XBB
+EPI_ISL_18012383,hCoV-19/Sichuan/MSCDC-0714-5/2023,2023-07-02,China,Sichuan,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_17978557,hCoV-19/Hubei/HCDC-WH2208/2023,2023-07-02,China,Hubei,XBB.1.5,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5,23A (XBB.1.5),XBB
+EPI_ISL_17978551,hCoV-19/Hubei/HCDC-WH2195/2023,2023-07-03,China,Hubei,XBB.1.42,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42,22F (XBB),XBB
+EPI_ISL_17987846,hCoV-19/Fujian/FCDC-SM1367/2023,2023-07-03,China,Fujian,GY.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.1,23B (XBB.1.16),XBB
+EPI_ISL_17999139,hCoV-19/Yunnan/YNCDC-1706/2023,2023-07-03,China,Yunnan,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18034546,hCoV-19/Guangdong/GDCDC_GZHG_1262/2023,2023-07-03,China,Guangdong,FL.1.5.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.1.5.1,23D (XBB.1.9),XBB
+EPI_ISL_18055788,hCoV-19/Yunnan/YNCDC-1784/2023,2023-07-04,China,Yunnan,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18049795,hCoV-19/Shanxi/SZCDC-SZ063/2023,2023-07-04,China,Shanxi,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_18105389,hCoV-19/Jiangsu/YZCDC-322/2023,2023-07-04,China,Jiangsu,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_17980933,hCoV-19/Shanxi/HCDC-SZ048/2023,2023-07-04,China,Shanxi,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18108261,hCoV-19/Anhui/AQCDC-094/2023,2023-07-04,China,Anhui,GJ.1.2,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.3.1.2,23E (XBB.2.3),XBB
+EPI_ISL_18213328,hCoV-19/Henan/JZCDC-128/2023,2023-07-05,China,Henan,FL.15,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.15,23D (XBB.1.9),XBB
+EPI_ISL_17999092,hCoV-19/Fujian/FCDC-QZ07S015/2023,2023-07-05,China,Fujian,FL.24,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.24,23D (XBB.1.9),XBB
+EPI_ISL_17988037,hCoV-19/Qinghai/QHCDC-HNZYY-134/2023,2023-07-05,China,Qinghai,FL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2,23D (XBB.1.9),XBB
+EPI_ISL_18116274,hCoV-19/Liaoning/LNCDC-270-3/2023,2023-07-06,China,Liaoning,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_18074239,hCoV-19/Liaoning/LNCDC-247-4/2023,2023-07-06,China,Liaoning,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18012352,hCoV-19/Guizhou/GZCDC-TR-07-017/2023,2023-07-08,China,Guizhou,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_17999121,hCoV-19/Fujian/FCDC-SM1422/2023,2023-07-10,China,Fujian,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18012351,hCoV-19/Guizhou/GZCDC-QXNCX205/2023,2023-07-10,China,Guizhou,GY.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.1,23B (XBB.1.16),XBB
+EPI_ISL_18074264,hCoV-19/Liaoning/LNCDC-257-2/2023,2023-07-11,China,Liaoning,FY.3.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.3,22F (XBB),XBB
+EPI_ISL_18074337,hCoV-19/Shanghai/SCDC-HG0714-2601/2023,2023-07-12,China,Shanghai,FL.10.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.10.1,23D (XBB.1.9),XBB
+EPI_ISL_18105333,hCoV-19/Jiangsu/NJCDC-472/2023,2023-07-12,China,Jiangsu,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18055546,hCoV-19/Hubei/HCDC-2357/2023,2023-07-12,China,Hubei,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_18105479,hCoV-19/Henan/SMXCDC072803/2023,2023-07-13,China,Henan,FY.1.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.1.1,22F (XBB),XBB
+EPI_ISL_18074343,hCoV-19/Shanghai/SCDC-HG0715-2615/2023,2023-07-13,China,Shanghai,EG.1,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.1,23D (XBB.1.9),XBB
+EPI_ISL_18108334,hCoV-19/Henan/SQCDC-0078/2023,2023-07-13,China,Henan,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18049848,hCoV-19/Qinghai/QHCDC-QHS4Y-285/2023,2023-07-14,China,Qinghai,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_18116293,hCoV-19/Liaoning/LNCDC-275-8/2023,2023-07-14,China,Liaoning,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_18055566,hCoV-19/Fujian/FCDC-FZCX0070/2023,2023-07-15,China,Fujian,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18055880,hCoV-19/Yunnan/YNCDC-1878/2023,2023-07-15,China,Yunnan,GY.2.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.2.1,23B (XBB.1.16),XBB
+EPI_ISL_18074223,hCoV-19/Guizhou/GZSCDC-TR07-030/2023,2023-07-15,China,Guizhou,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_18245962,hCoV-19/Heilongjiang/HLJCDC-1902/2023,2023-07-16,China,Heilongjiang,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18074961,hCoV-19/Yunnan/YNCDC-1977/2023,2023-07-16,China,Yunnan,FL.13,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.13.4,23D (XBB.1.9),XBB
+EPI_ISL_18116282,hCoV-19/Liaoning/LNCDC-273-4/2023,2023-07-17,China,Liaoning,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18049776,hCoV-19/Gansu/PLCDC-0122/2023,2023-07-17,China,Gansu,HL.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2.2,22F (XBB),XBB
+EPI_ISL_18246115,hCoV-19/Heilongjiang/HLJCDC-1910/2023,2023-07-17,China,Heilongjiang,FL.13.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.13.2,23D (XBB.1.9),XBB
+EPI_ISL_18245912,hCoV-19/Heilongjiang/HLJCDC-1929/2023,2023-07-18,China,Heilongjiang,FE.1.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.18.1.1.1,22F (XBB),XBB
+EPI_ISL_18078208,hCoV-19/Qinghai/QHCDC-HNZYY-155/2023,2023-07-18,China,Qinghai,FE.1.1.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.18.1.1.1.3,22F (XBB),XBB
+EPI_ISL_18495297,hCoV-19/Shanxi/TYCDC366/2023,2023-07-18,China,Shanxi,FE.1.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.18.1.1.1,22F (XBB),XBB
+EPI_ISL_18495287,hCoV-19/Shanxi/TYCDC356/2023,2023-07-18,China,Shanxi,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18060785,hCoV-19/Shanghai/SCDC-HG0721-2701/2023,2023-07-19,China,Shanghai,FL.10,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.10,23D (XBB.1.9),XBB
+EPI_ISL_18055577,hCoV-19/Fujian/FCDC-ND0399/2023,2023-07-20,China,Fujian,XBB.1.9.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1,23D (XBB.1.9),XBB
+EPI_ISL_18055579,hCoV-19/Fujian/FCDC-ND0407/2023,2023-07-21,China,Fujian,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18116300,hCoV-19/Liaoning/LNCDC-278-1/2023,2023-07-21,China,Liaoning,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18138329,hCoV-19/Shanxi/JCCDC-JCCX0346/2023,2023-07-22,China,Shanxi,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18060849,hCoV-19/Sichuan/CDCDC-19-CX2337/2023,2023-07-23,China,Sichuan,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_18330186,hCoV-19/Guizhou/GZCDC-QN07-004/2023,2023-07-25,China,Guizhou,XBB.1.9.2,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2,23D (XBB.1.9),XBB
+EPI_ISL_18105578,hCoV-19/Shanghai/SCDC-HG0728-2812/2023,2023-07-26,China,Shanghai,FL.34,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.34,23D (XBB.1.9),XBB
+EPI_ISL_18105591,hCoV-19/Shanghai/SCDC-HG0729-2835/2023,2023-07-27,China,Shanghai,XBB.1.42.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_18078293,hCoV-19/Hubei/HCDC-WH2385/2023,2023-07-27,China,Hubei,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18078277,hCoV-19/Hubei/HCDC-JZ2428/2023,2023-07-28,China,Hubei,GY.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.1,23B (XBB.1.16),XBB
+EPI_ISL_18078228,hCoV-19/Qinghai/QHCDC-QHS4Y-304/2023,2023-07-30,China,Qinghai,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18078223,hCoV-19/Qinghai/QHCDC-HSZ-347/2023,2023-07-30,China,Qinghai,FU.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.1,23B (XBB.1.16),XBB
+EPI_ISL_18145973,hCoV-19/Henan/HBCDC-cx42/2023,2023-07-31,China,Henan,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18409183,hCoV-19/Anhui/TLCDC-CX040/2023,2023-07-31,China,Anhui,FL.2.3.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3.1,23D (XBB.1.9),XBB
+EPI_ISL_18108322,hCoV-19/Fujian/FCDC-PTN181/2023,2023-08-01,China,Fujian,FL.10,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.10,23D (XBB.1.9),XBB
+EPI_ISL_18138338,hCoV-19/Shanxi/JCCDC-JCCX0355/2023,2023-08-03,China,Shanxi,FL.2.3,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.2.3,23D (XBB.1.9),XBB
+EPI_ISL_18495343,hCoV-19/Shanxi/TYCDC412/2023,2023-08-04,China,Shanxi,FL.13.2,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.13.2,23D (XBB.1.9),XBB
+EPI_ISL_18495339,hCoV-19/Shanxi/TYCDC408/2023,2023-08-04,China,Shanxi,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18246234,hCoV-19/Liaoning/LNCDC-303-7/2023,2023-08-05,China,Liaoning,GY.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.2.1,23B (XBB.1.16),XBB
+EPI_ISL_18105547,hCoV-19/Hubei/HCDC-WH2492/2023,2023-08-06,China,Hubei,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_18145968,hCoV-19/Henan/HBCDC-cx46/2023,2023-08-07,China,Henan,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22,22F (XBB),XBB
+EPI_ISL_18268500,hCoV-19/Shanghai/SCDC-XH0905-55_S55/2023,2023-08-08,China,Shanghai,XBB.1.16.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1,23B (XBB.1.16),XBB
+EPI_ISL_18324059,hCoV-19/Xinjiang/XJCDCBOZ_139/2023,2023-08-08,China,Xinjiang,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_18495760,hCoV-19/Gansu/QYCDC-832/2023,2023-08-09,China,Gansu,FL.4.10,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4.10,23D (XBB.1.9),XBB
+EPI_ISL_18401786,hCoV-19/Shanxi/JCCDC-JCCX0361/2023,2023-08-09,China,Shanxi,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18324107,hCoV-19/Xinjiang/XJCDCTC_152/2023,2023-08-09,China,Xinjiang,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18495759,hCoV-19/Gansu/QYCDC-828/2023,2023-08-11,China,Gansu,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_18127179,hCoV-19/Fujian/FCDC-XM080805HG/2023,2023-08-12,China,Fujian,FL.10.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.10.1,23D (XBB.1.9),XBB
+EPI_ISL_18145960,hCoV-19/Fujian/FCDC-QZ08S022/2023,2023-08-12,China,Fujian,FL.15,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.15,23D (XBB.1.9),XBB
+EPI_ISL_18114867,hCoV-19/Shanghai/SCDC-HG0815-3110/2023,2023-08-13,China,Shanghai,FL.15,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.15,23D (XBB.1.9),XBB
+EPI_ISL_18495772,hCoV-19/Gansu/QYCDC-855/2023,2023-08-14,China,Gansu,XBB.1.22.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1,22F (XBB),XBB
+EPI_ISL_18166276,hCoV-19/Yunnan/YNCDC-2379/2023,2023-08-14,China,Yunnan,XBB.1.16,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16,23B (XBB.1.16),XBB
+EPI_ISL_18289924,hCoV-19/Anhui/HCDC-132-2/2023,2023-08-14,China,Anhui,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3,22F (XBB),XBB
+EPI_ISL_18145948,hCoV-19/Fujian/FCDC-NPqz106/2023,2023-08-15,China,Fujian,FY.3.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_18245920,hCoV-19/Heilongjiang/HLJCDC-2124/2023,2023-08-15,China,Heilongjiang,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18208375,hCoV-19/Shanghai/SCDC-0821-3212/2023,2023-08-18,China,Shanghai,XBB.2.3.8,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.8,23E (XBB.2.3),XBB
+EPI_ISL_18241466,hCoV-19/Yunnan/YNCDC-2476/2023,2023-08-23,China,Yunnan,XBB.2.3.5,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.5,23E (XBB.2.3),XBB
+EPI_ISL_18289789,hCoV-19/Anhui/AQCDC-143/2023,2023-08-26,China,Anhui,GJ.3,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.3.3,23E (XBB.2.3),XBB
+EPI_ISL_18384380,hCoV-19/Heilongjiang/HLJCDC-2225/2023,2023-08-27,China,Heilongjiang,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18384389,hCoV-19/Heilongjiang/HLJCDC-2227/2023,2023-08-28,China,Heilongjiang,EG.1.6,VUM GRA (XBB.1.9.2+XBB1.9.2.*) first detected in Indonesia/Egypt,23D,XBB.1.9.2.1.6,23D (XBB.1.9),XBB
+EPI_ISL_18254152,hCoV-19/Gansu/TSCDC-090402/2023,2023-08-29,China,Gansu,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18384423,hCoV-19/Heilongjiang/HLJCDC-2237/2023,2023-08-29,China,Heilongjiang,XBB.1.42.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_18245876,hCoV-19/Gansu/PLCDC-0163/2023,2023-08-30,China,Gansu,GJ.3,VUM GRA (XBB.2.3+XBB.2.3.*) first detected in India/USA,23E,XBB.2.3.3.3,23E (XBB.2.3),XBB
+EPI_ISL_18320717,hCoV-19/Liaoning/LNCDC-344-7/2023,2023-08-30,China,Liaoning,FY.3.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.3,22F (XBB),XBB
+EPI_ISL_18324185,hCoV-19/Yunnan/YNCDC-2781/2023,2023-08-31,China,Yunnan,FU.2.1,VOI GRA (XBB.1.16+XBB.1.16.*) first detected in India,23B,XBB.1.16.1.2.1,23B (XBB.1.16),XBB
+EPI_ISL_18438305,hCoV-19/Beijing/BJCDC-4344/2023,2023-08-31,China,Beijing,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18465235,hCoV-19/Henan/SQCDC-0099/2023,2023-09-03,China,Henan,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18505754,hCoV-19/Xinjiang/XJCDCKLMY-283/2023,2023-09-03,China,Xinjiang,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18300561,hCoV-19/Guizhou/GZSCDC-TR-09-013/2023,2023-09-06,China,Guizhou,XBB.1.42.2,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.42.2,22F (XBB),XBB
+EPI_ISL_18401799,hCoV-19/Shanxi/JCCDC-JCCX0458/2023,2023-09-06,China,Shanxi,FY.3,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.2,22F (XBB),XBB
+EPI_ISL_18495430,hCoV-19/Shanxi/TYCDC499/2023,2023-09-08,China,Shanxi,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18292882,hCoV-19/Yunnan/YNCDC-2749/2023,2023-09-08,China,Yunnan,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18505722,hCoV-19/Xinjiang/XJCDCBOZ-178/2023,2023-09-09,China,Xinjiang,FL.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.1,23D (XBB.1.9),XBB
+EPI_ISL_18268274,hCoV-19/Qinghai/QHCDC-HYXYY-21/2023,2023-09-11,China,Qinghai,JJ.1,VOI GRA (EG.5+EG.5.*) first detected in Indonesia/France,23F,XBB.1.9.2.5.1.4.1,23F (EG.5.1),XBB
+EPI_ISL_18465012,hCoV-19/Heilongjiang/HLJCDC-2352/2023,2023-09-12,China,Heilongjiang,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_18284867,hCoV-19/Shanghai/SCDC-HG0914-3536/2023,2023-09-12,China,Shanghai,FL.10.1,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.10.1,23D (XBB.1.9),XBB
+EPI_ISL_18304225,hCoV-19/Fujian/FCDC-ZZ1920/2023,2023-09-12,China,Fujian,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18384471,hCoV-19/Yunnan/YNCDC-2902/2023,2023-09-13,China,Yunnan,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18409398,hCoV-19/Yunnan/YNCDC-3052/2023,2023-09-14,China,Yunnan,FL.4,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.4,23D (XBB.1.9),XBB
+EPI_ISL_18495442,hCoV-19/Shanxi/TYCDC511/2023,2023-09-15,China,Shanxi,FL.15,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.15,23D (XBB.1.9),XBB
+EPI_ISL_18465242,hCoV-19/Henan/SQCDC-0106/2023,2023-09-18,China,Henan,GF.1,VOI GRA (XBB.1.5+XBB.1.5.*) first detected in Austria/India/Bangladesh,23A,XBB.1.5.24.1,23A (XBB.1.5),XBB
+EPI_ISL_18401717,hCoV-19/Fujian/FCDC-PTN208/2023,2023-10-03,China,Fujian,FY.3.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.22.1.3.1,22F (XBB),XBB
+EPI_ISL_18488020,hCoV-19/Yunnan/YNCDC-3269/2023,2023-10-17,China,Yunnan,FL.15,VUM GRA (XBB.1.9.1+XBB.1.9.1.*) first detected in Indonesia/Israel/Singapore,23D,XBB.1.9.1.15,23D (XBB.1.9),XBB
+EPI_ISL_18495058,hCoV-19/Shanghai/SCDC-HG1025-3862/2023,2023-10-23,China,Shanghai,XBB.1.41.1,"VUM GRA (XBB+XBB.* excluding XBB.1.5, XBB.1.16, XBB.1.9.1, XBB.1.9.2, XBB.2.3) first detected in India",22F,XBB.1.41.1,22F (XBB),XBB
