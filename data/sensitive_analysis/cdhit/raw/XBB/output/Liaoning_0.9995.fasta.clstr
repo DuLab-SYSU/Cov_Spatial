@@ -1,0 +1,287 @@
+>Cluster 0
+0	29781nt, >EPI_ISL_17652383... at +/99.97%
+1	29756nt, >EPI_ISL_17652384... at +/99.97%
+2	29781nt, >EPI_ISL_17775115... at +/99.98%
+3	29754nt, >EPI_ISL_17775074... at +/99.97%
+4	29790nt, >EPI_ISL_17850624... at +/99.96%
+5	29788nt, >EPI_ISL_17850628... at +/99.97%
+6	29786nt, >EPI_ISL_17850710... at +/99.96%
+7	29783nt, >EPI_ISL_17972953... at +/99.97%
+8	29788nt, >EPI_ISL_17972898... at +/99.98%
+9	29774nt, >EPI_ISL_17972942... at +/99.97%
+10	29784nt, >EPI_ISL_17972875... at +/99.98%
+11	29777nt, >EPI_ISL_18130528... at +/99.96%
+12	29779nt, >EPI_ISL_18074266... at +/99.96%
+13	29814nt, >EPI_ISL_18116264... *
+>Cluster 1
+0	29792nt, >EPI_ISL_17972874... *
+>Cluster 2
+0	29756nt, >EPI_ISL_17850716... at +/99.97%
+1	29784nt, >EPI_ISL_17972946... at +/99.97%
+2	29778nt, >EPI_ISL_17972863... at +/99.96%
+3	29785nt, >EPI_ISL_17972878... at +/99.96%
+4	29780nt, >EPI_ISL_18130535... at +/99.96%
+5	29792nt, >EPI_ISL_18074256... *
+>Cluster 3
+0	29791nt, >EPI_ISL_17850633... *
+>Cluster 4
+0	29790nt, >EPI_ISL_17850621... *
+>Cluster 5
+0	29790nt, >EPI_ISL_17850729... *
+1	29774nt, >EPI_ISL_17972931... at +/100.00%
+2	29584nt, >EPI_ISL_17972904... at +/100.00%
+>Cluster 6
+0	29756nt, >EPI_ISL_17972905... at +/99.97%
+1	29778nt, >EPI_ISL_18074285... at +/99.97%
+2	29789nt, >EPI_ISL_18116265... *
+3	29780nt, >EPI_ISL_18116302... at +/99.96%
+4	29786nt, >EPI_ISL_18330291... at +/99.95%
+>Cluster 7
+0	29788nt, >EPI_ISL_17850696... *
+>Cluster 8
+0	29788nt, >EPI_ISL_17850682... *
+>Cluster 9
+0	29781nt, >EPI_ISL_17652376... at +/99.97%
+1	29788nt, >EPI_ISL_17972886... *
+2	29774nt, >EPI_ISL_17972922... at +/99.97%
+3	29779nt, >EPI_ISL_18074268... at +/99.96%
+>Cluster 10
+0	29787nt, >EPI_ISL_17850613... *
+>Cluster 11
+0	29787nt, >EPI_ISL_17850648... *
+>Cluster 12
+0	29787nt, >EPI_ISL_17850697... *
+>Cluster 13
+0	29787nt, >EPI_ISL_17850678... *
+>Cluster 14
+0	29757nt, >EPI_ISL_17850617... at +/99.98%
+1	29774nt, >EPI_ISL_18130527... at +/99.98%
+2	29774nt, >EPI_ISL_18049770... at +/99.98%
+3	29787nt, >EPI_ISL_18074287... *
+>Cluster 15
+0	29787nt, >EPI_ISL_18074233... *
+>Cluster 16
+0	29751nt, >EPI_ISL_17972870... at +/99.97%
+1	29787nt, >EPI_ISL_18074226... *
+>Cluster 17
+0	29787nt, >EPI_ISL_18074270... *
+>Cluster 18
+0	29786nt, >EPI_ISL_17850689... *
+>Cluster 19
+0	29786nt, >EPI_ISL_17850670... *
+>Cluster 20
+0	29786nt, >EPI_ISL_17972940... *
+>Cluster 21
+0	29786nt, >EPI_ISL_18074292... *
+>Cluster 22
+0	29786nt, >EPI_ISL_18074243... *
+>Cluster 23
+0	29786nt, >EPI_ISL_18074264... *
+>Cluster 24
+0	29782nt, >EPI_ISL_17652379... at +/99.95%
+1	29779nt, >EPI_ISL_17775135... at +/99.96%
+2	29757nt, >EPI_ISL_17775067... at +/99.96%
+3	29751nt, >EPI_ISL_17972888... at +/99.95%
+4	29774nt, >EPI_ISL_17972857... at +/99.95%
+5	29756nt, >EPI_ISL_18130531... at +/99.96%
+6	29775nt, >EPI_ISL_18130530... at +/99.96%
+7	29745nt, >EPI_ISL_18074242... at +/99.96%
+8	29784nt, >EPI_ISL_18116274... at +/99.96%
+9	29786nt, >EPI_ISL_18246226... *
+>Cluster 25
+0	29786nt, >EPI_ISL_18268188... *
+>Cluster 26
+0	29785nt, >EPI_ISL_17972892... *
+>Cluster 27
+0	29785nt, >EPI_ISL_17972871... *
+>Cluster 28
+0	29785nt, >EPI_ISL_18116279... *
+>Cluster 29
+0	29751nt, >EPI_ISL_17850667... at +/99.97%
+1	29784nt, >EPI_ISL_18074246... *
+2	29758nt, >EPI_ISL_18320694... at +/99.96%
+>Cluster 30
+0	29784nt, >EPI_ISL_18074261... *
+>Cluster 31
+0	29784nt, >EPI_ISL_18116282... *
+>Cluster 32
+0	29783nt, >EPI_ISL_17850634... *
+>Cluster 33
+0	29783nt, >EPI_ISL_17972900... *
+>Cluster 34
+0	29783nt, >EPI_ISL_18049765... *
+>Cluster 35
+0	29783nt, >EPI_ISL_18074282... *
+>Cluster 36
+0	29783nt, >EPI_ISL_18116290... *
+>Cluster 37
+0	29783nt, >EPI_ISL_18246234... *
+>Cluster 38
+0	29782nt, >EPI_ISL_17775127... *
+>Cluster 39
+0	29634nt, >EPI_ISL_17228016... at +/99.95%
+1	29634nt, >EPI_ISL_17228017... at +/99.95%
+2	29782nt, >EPI_ISL_17850654... *
+3	29757nt, >EPI_ISL_17850637... at +/99.95%
+4	29756nt, >EPI_ISL_17972864... at +/99.96%
+>Cluster 40
+0	29782nt, >EPI_ISL_18074239... *
+>Cluster 41
+0	29782nt, >EPI_ISL_18116276... *
+>Cluster 42
+0	29782nt, >EPI_ISL_18246221... *
+>Cluster 43
+0	29781nt, >EPI_ISL_18074250... *
+>Cluster 44
+0	29781nt, >EPI_ISL_18116304... *
+>Cluster 45
+0	29781nt, >EPI_ISL_18116310... *
+>Cluster 46
+0	29780nt, >EPI_ISL_17775123... *
+>Cluster 47
+0	29780nt, >EPI_ISL_17775117... *
+>Cluster 48
+0	29780nt, >EPI_ISL_17850627... *
+>Cluster 49
+0	29780nt, >EPI_ISL_18130520... *
+>Cluster 50
+0	29780nt, >EPI_ISL_18116291... *
+>Cluster 51
+0	29780nt, >EPI_ISL_18320698... *
+>Cluster 52
+0	29779nt, >EPI_ISL_17495356... *
+1	29589nt, >EPI_ISL_17972861... at +/99.96%
+>Cluster 53
+0	29779nt, >EPI_ISL_17485726... *
+>Cluster 54
+0	29779nt, >EPI_ISL_17972858... *
+>Cluster 55
+0	29779nt, >EPI_ISL_18074280... *
+>Cluster 56
+0	29779nt, >EPI_ISL_18116277... *
+>Cluster 57
+0	29779nt, >EPI_ISL_18388960... *
+>Cluster 58
+0	29778nt, >EPI_ISL_17850714... *
+>Cluster 59
+0	29778nt, >EPI_ISL_18116306... *
+>Cluster 60
+0	29757nt, >EPI_ISL_17775073... at +/99.96%
+1	29778nt, >EPI_ISL_18246215... *
+>Cluster 61
+0	29777nt, >EPI_ISL_17615026... *
+>Cluster 62
+0	29777nt, >EPI_ISL_17850731... *
+>Cluster 63
+0	29777nt, >EPI_ISL_17972907... *
+>Cluster 64
+0	29774nt, >EPI_ISL_17972937... *
+>Cluster 65
+0	29774nt, >EPI_ISL_18268201... *
+>Cluster 66
+0	29773nt, >EPI_ISL_17850717... *
+>Cluster 67
+0	29773nt, >EPI_ISL_17972895... *
+>Cluster 68
+0	29773nt, >EPI_ISL_17972882... *
+>Cluster 69
+0	29771nt, >EPI_ISL_17850636... *
+>Cluster 70
+0	29770nt, >EPI_ISL_17972855... *
+>Cluster 71
+0	29768nt, >EPI_ISL_18074252... *
+>Cluster 72
+0	29764nt, >EPI_ISL_17972915... *
+>Cluster 73
+0	29764nt, >EPI_ISL_18246230... *
+>Cluster 74
+0	29762nt, >EPI_ISL_17850673... *
+>Cluster 75
+0	29761nt, >EPI_ISL_17850622... *
+>Cluster 76
+0	29759nt, >EPI_ISL_18049759... *
+1	29759nt, >EPI_ISL_18130524... at +/100.00%
+>Cluster 77
+0	29758nt, >EPI_ISL_17850632... *
+>Cluster 78
+0	29758nt, >EPI_ISL_17775118... *
+>Cluster 79
+0	29758nt, >EPI_ISL_18130519... *
+>Cluster 80
+0	29758nt, >EPI_ISL_18074231... *
+>Cluster 81
+0	29757nt, >EPI_ISL_17972896... *
+>Cluster 82
+0	29757nt, >EPI_ISL_18130518... *
+>Cluster 83
+0	29757nt, >EPI_ISL_18116297... *
+>Cluster 84
+0	29757nt, >EPI_ISL_18116299... *
+>Cluster 85
+0	29756nt, >EPI_ISL_17850702... *
+>Cluster 86
+0	29756nt, >EPI_ISL_18074258... *
+>Cluster 87
+0	29755nt, >EPI_ISL_17850615... *
+>Cluster 88
+0	29755nt, >EPI_ISL_17850685... *
+>Cluster 89
+0	29752nt, >EPI_ISL_17775112... *
+>Cluster 90
+0	29752nt, >EPI_ISL_17775092... *
+>Cluster 91
+0	29752nt, >EPI_ISL_17850727... *
+>Cluster 92
+0	29751nt, >EPI_ISL_17850698... *
+>Cluster 93
+0	29751nt, >EPI_ISL_17972872... *
+>Cluster 94
+0	29745nt, >EPI_ISL_18425082... *
+>Cluster 95
+0	29744nt, >EPI_ISL_18146110... *
+>Cluster 96
+0	29743nt, >EPI_ISL_17850708... *
+>Cluster 97
+0	29743nt, >EPI_ISL_17972866... *
+>Cluster 98
+0	29743nt, >EPI_ISL_18116293... *
+>Cluster 99
+0	29742nt, >EPI_ISL_17775097... *
+>Cluster 100
+0	29742nt, >EPI_ISL_17972950... *
+>Cluster 101
+0	29742nt, >EPI_ISL_18074251... *
+>Cluster 102
+0	29741nt, >EPI_ISL_17775107... *
+>Cluster 103
+0	29740nt, >EPI_ISL_17850660... *
+>Cluster 104
+0	29740nt, >EPI_ISL_17972936... *
+>Cluster 105
+0	29738nt, >EPI_ISL_17850732... *
+>Cluster 106
+0	29738nt, >EPI_ISL_17972868... *
+>Cluster 107
+0	29738nt, >EPI_ISL_18074263... *
+>Cluster 108
+0	29738nt, >EPI_ISL_18320717... *
+>Cluster 109
+0	29717nt, >EPI_ISL_18320709... *
+>Cluster 110
+0	29711nt, >EPI_ISL_17972899... *
+>Cluster 111
+0	29707nt, >EPI_ISL_17850703... *
+>Cluster 112
+0	29696nt, >EPI_ISL_17972906... *
+>Cluster 113
+0	29682nt, >EPI_ISL_18320711... *
+>Cluster 114
+0	29677nt, >EPI_ISL_17850700... *
+>Cluster 115
+0	29663nt, >EPI_ISL_18246207... *
+>Cluster 116
+0	29612nt, >EPI_ISL_18074288... *
+>Cluster 117
+0	29599nt, >EPI_ISL_18116300... *
+>Cluster 118
+0	29448nt, >EPI_ISL_18246239... *
