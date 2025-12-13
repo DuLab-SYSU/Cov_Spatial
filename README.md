@@ -18,7 +18,7 @@ The analyses integrate genomic, epidemiological, and mobility data to explore vi
 In compliance with the data-sharing policy of **GISAID** ([https://gisaid.org/](https://gisaid.org/)), the **actual SARS-CoV-2 genome sequences** used in this study have been **removed** from this repository.  
 To reproduce the results, please download the relevant sequences from GISAID using the **accession IDs** provided in the `/data` directory of this repository.
 
-- Supplementary_Data_S1.csv`— the intensity of international travel control measures implemented by the Chinese government from the Oxford COVID-19 Government Response Tracker (OxCGRT) (https://github.com/OxCGRT/covid-policy-dataset).
+- `Supplementary_Data_S1.csv`— the intensity of international travel control measures implemented by the Chinese government from the Oxford COVID-19 Government Response Tracker (OxCGRT) (https://github.com/OxCGRT/covid-policy-dataset).
 - `Supplementary_Data_S2.csv`— raw sequence data used from GISAID  database under accession IDs and strain name in the mainland of China.
 - `Supplementary_Data_S3.csv`— raw sequence data used from GISAID database under accession IDs (global).
 
