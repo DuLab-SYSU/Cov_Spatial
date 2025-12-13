@@ -1,0 +1,163 @@
+s_country,t_prov,value,color
+Australia,Beijing,1.0,#4A708B
+Australia,Fujian,2.0,#4A708B
+Australia,Guangdong,4.0,#4A708B
+Australia,Hainan,7.0,#4A708B
+Australia,Hebei,2.0,#4A708B
+Australia,Heilongjiang,1.0,#4A708B
+Australia,Jiangsu,2.0,#4A708B
+Australia,Shandong,3.0,#4A708B
+Australia,Zhejiang,1.0,#4A708B
+Canada,Anhui,8.0,#6CA6CD
+Canada,Beijing,7.0,#6CA6CD
+Canada,Chongqing,1.0,#6CA6CD
+Canada,Fujian,9.0,#6CA6CD
+Canada,Guangdong,5.0,#6CA6CD
+Canada,Guangxi,17.0,#6CA6CD
+Canada,Guizhou,1.0,#6CA6CD
+Canada,Hainan,2.0,#6CA6CD
+Canada,Hebei,3.0,#6CA6CD
+Canada,Heilongjiang,2.0,#6CA6CD
+Canada,Henan,2.0,#6CA6CD
+Canada,Hubei,1.0,#6CA6CD
+Canada,Jiangxi,2.0,#6CA6CD
+Canada,Liaoning,2.0,#6CA6CD
+Canada,Neimenggu,2.0,#6CA6CD
+Canada,Shaanxi,1.0,#6CA6CD
+Canada,Shandong,4.0,#6CA6CD
+Canada,Shanghai,1.0,#6CA6CD
+Canada,Shanxi,1.0,#6CA6CD
+Canada,Sichuan,1.0,#6CA6CD
+Canada,Tianjin,2.0,#6CA6CD
+Canada,Zhejiang,7.0,#6CA6CD
+France,Anhui,2.0,#7EC0EE
+France,Beijing,17.0,#7EC0EE
+France,Fujian,1.0,#7EC0EE
+France,Gansu,1.0,#7EC0EE
+France,Guangdong,4.0,#7EC0EE
+France,Hainan,3.0,#7EC0EE
+France,Hebei,2.0,#7EC0EE
+France,Heilongjiang,1.0,#7EC0EE
+France,Henan,3.0,#7EC0EE
+France,Hubei,1.0,#7EC0EE
+France,Jiangsu,2.0,#7EC0EE
+France,Jiangxi,4.0,#7EC0EE
+France,Neimenggu,2.0,#7EC0EE
+France,Shaanxi,1.0,#7EC0EE
+France,Shandong,5.0,#7EC0EE
+France,Shanghai,4.0,#7EC0EE
+France,Tianjin,3.0,#7EC0EE
+France,Zhejiang,1.0,#7EC0EE
+Germany,Anhui,1.0,#87CEEB
+Germany,Beijing,2.0,#87CEEB
+Germany,Hainan,1.0,#87CEEB
+Germany,Hebei,1.0,#87CEEB
+Germany,Shaanxi,2.0,#87CEEB
+Germany,Shanghai,3.0,#87CEEB
+Hong Kong,Anhui,18.0,#87CEFF
+Hong Kong,Beijing,78.0,#87CEFF
+Hong Kong,Fujian,8.0,#87CEFF
+Hong Kong,Gansu,1.0,#87CEFF
+Hong Kong,Guangdong,7.0,#87CEFF
+Hong Kong,Guangxi,4.0,#87CEFF
+Hong Kong,Guizhou,1.0,#87CEFF
+Hong Kong,Hainan,6.0,#87CEFF
+Hong Kong,Hebei,11.0,#87CEFF
+Hong Kong,Heilongjiang,10.0,#87CEFF
+Hong Kong,Henan,3.0,#87CEFF
+Hong Kong,Hubei,1.0,#87CEFF
+Hong Kong,Jiangsu,7.0,#87CEFF
+Hong Kong,Jilin,1.0,#87CEFF
+Hong Kong,Liaoning,3.0,#87CEFF
+Hong Kong,Neimenggu,4.0,#87CEFF
+Hong Kong,Qinghai,1.0,#87CEFF
+Hong Kong,Shaanxi,6.0,#87CEFF
+Hong Kong,Shandong,27.0,#87CEFF
+Hong Kong,Shanghai,8.0,#87CEFF
+Hong Kong,Shanxi,2.0,#87CEFF
+Hong Kong,Sichuan,1.0,#87CEFF
+Hong Kong,Tianjin,6.0,#87CEFF
+Hong Kong,Xinjiang,1.0,#87CEFF
+Hong Kong,Yunnan,6.0,#87CEFF
+Hong Kong,Zhejiang,21.0,#87CEFF
+Japan,Anhui,11.0,#CD96CD
+Japan,Beijing,29.0,#CD96CD
+Japan,Fujian,17.0,#CD96CD
+Japan,Gansu,3.0,#CD96CD
+Japan,Guangdong,5.0,#CD96CD
+Japan,Guangxi,1.0,#CD96CD
+Japan,Guizhou,1.0,#CD96CD
+Japan,Hainan,10.0,#CD96CD
+Japan,Hebei,15.0,#CD96CD
+Japan,Heilongjiang,11.0,#CD96CD
+Japan,Henan,6.0,#CD96CD
+Japan,Hubei,6.0,#CD96CD
+Japan,Jiangsu,19.0,#CD96CD
+Japan,Jiangxi,6.0,#CD96CD
+Japan,Jilin,1.0,#CD96CD
+Japan,Liaoning,3.0,#CD96CD
+Japan,Neimenggu,2.0,#CD96CD
+Japan,Qinghai,1.0,#CD96CD
+Japan,Shaanxi,4.0,#CD96CD
+Japan,Shandong,34.0,#CD96CD
+Japan,Shanghai,10.0,#CD96CD
+Japan,Shanxi,3.0,#CD96CD
+Japan,Tianjin,2.0,#CD96CD
+Japan,Xinjiang,1.0,#CD96CD
+Japan,Yunnan,2.0,#CD96CD
+Japan,Zhejiang,21.0,#CD96CD
+Singapore,Anhui,3.0,#EEAEEE
+Singapore,Beijing,1.0,#EEAEEE
+Singapore,Guangxi,1.0,#EEAEEE
+Singapore,Hainan,3.0,#EEAEEE
+Singapore,Hebei,1.0,#EEAEEE
+Singapore,Henan,1.0,#EEAEEE
+Singapore,Hubei,2.0,#EEAEEE
+Singapore,Shanghai,6.0,#EEAEEE
+Singapore,Shanxi,1.0,#EEAEEE
+Singapore,Sichuan,4.0,#EEAEEE
+Singapore,Xinjiang,1.0,#EEAEEE
+Singapore,Zhejiang,1.0,#EEAEEE
+South Korea,Anhui,5.0,#FFBBFF
+South Korea,Beijing,21.0,#FFBBFF
+South Korea,Chongqing,1.0,#FFBBFF
+South Korea,Fujian,9.0,#FFBBFF
+South Korea,Gansu,4.0,#FFBBFF
+South Korea,Guangdong,5.0,#FFBBFF
+South Korea,Guangxi,8.0,#FFBBFF
+South Korea,Hainan,3.0,#FFBBFF
+South Korea,Hebei,16.0,#FFBBFF
+South Korea,Heilongjiang,7.0,#FFBBFF
+South Korea,Henan,8.0,#FFBBFF
+South Korea,Hubei,5.0,#FFBBFF
+South Korea,Jiangsu,12.0,#FFBBFF
+South Korea,Jiangxi,5.0,#FFBBFF
+South Korea,Jilin,6.0,#FFBBFF
+South Korea,Liaoning,7.0,#FFBBFF
+South Korea,Neimenggu,3.0,#FFBBFF
+South Korea,Shaanxi,8.0,#FFBBFF
+South Korea,Shandong,17.0,#FFBBFF
+South Korea,Shanghai,14.0,#FFBBFF
+South Korea,Shanxi,7.0,#FFBBFF
+South Korea,Sichuan,1.0,#FFBBFF
+South Korea,Tianjin,3.0,#FFBBFF
+South Korea,Xinjiang,2.0,#FFBBFF
+South Korea,Yunnan,3.0,#FFBBFF
+South Korea,Zhejiang,7.0,#FFBBFF
+USA,Anhui,4.0,#DDA0DD
+USA,Beijing,15.0,#DDA0DD
+USA,Fujian,7.0,#DDA0DD
+USA,Guangdong,1.0,#DDA0DD
+USA,Guangxi,1.0,#DDA0DD
+USA,Hebei,4.0,#DDA0DD
+USA,Heilongjiang,3.0,#DDA0DD
+USA,Henan,3.0,#DDA0DD
+USA,Jiangsu,9.0,#DDA0DD
+USA,Jilin,1.0,#DDA0DD
+USA,Shaanxi,1.0,#DDA0DD
+USA,Shandong,10.0,#DDA0DD
+USA,Shanghai,20.0,#DDA0DD
+USA,Shanxi,2.0,#DDA0DD
+USA,Sichuan,1.0,#DDA0DD
+USA,Xinjiang,1.0,#DDA0DD
+USA,Zhejiang,6.0,#DDA0DD

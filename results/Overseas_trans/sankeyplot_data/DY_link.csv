@@ -1,0 +1,86 @@
+source,target,value,group
+0,10,30.0,01_South Korea
+0,11,21.0,01_South Korea
+0,12,20.0,01_South Korea
+0,13,21.0,01_South Korea
+0,14,19.0,01_South Korea
+0,15,12.0,01_South Korea
+0,16,16.0,01_South Korea
+0,17,15.0,01_South Korea
+0,18,11.0,01_South Korea
+0,19,9.0,01_South Korea
+1,10,22.0,02_Japan
+1,11,17.0,02_Japan
+1,12,12.0,02_Japan
+1,13,21.0,02_Japan
+1,14,15.0,02_Japan
+1,15,14.0,02_Japan
+1,16,19.0,02_Japan
+1,17,23.0,02_Japan
+1,18,12.0,02_Japan
+1,19,21.0,02_Japan
+2,10,65.0,03_Singapore
+2,11,19.0,03_Singapore
+2,12,18.0,03_Singapore
+2,13,18.0,03_Singapore
+2,14,12.0,03_Singapore
+2,15,9.0,03_Singapore
+2,16,1.0,03_Singapore
+2,17,3.0,03_Singapore
+2,18,13.0,03_Singapore
+2,19,2.0,03_Singapore
+3,10,2.0,04_Australia
+3,11,10.0,04_Australia
+3,12,13.0,04_Australia
+3,13,5.0,04_Australia
+3,14,4.0,04_Australia
+3,15,4.0,04_Australia
+3,16,6.0,04_Australia
+3,17,12.0,04_Australia
+3,18,3.0,04_Australia
+3,19,5.0,04_Australia
+4,10,5.0,05_South Africa
+4,11,5.0,05_South Africa
+4,12,2.0,05_South Africa
+4,13,8.0,05_South Africa
+4,14,4.0,05_South Africa
+4,15,5.0,05_South Africa
+4,16,4.0,05_South Africa
+4,17,9.0,05_South Africa
+4,18,7.0,05_South Africa
+4,19,6.0,05_South Africa
+5,10,6.0,06_USA
+5,11,12.0,06_USA
+5,12,7.0,06_USA
+5,13,2.0,06_USA
+5,14,9.0,06_USA
+5,15,1.0,06_USA
+5,16,1.0,06_USA
+5,18,6.0,06_USA
+5,19,4.0,06_USA
+6,10,18.0,07_Hong Kong
+6,11,1.0,07_Hong Kong
+6,12,2.0,07_Hong Kong
+6,13,1.0,07_Hong Kong
+6,14,1.0,07_Hong Kong
+6,18,1.0,07_Hong Kong
+7,10,2.0,08_Italy
+7,11,7.0,08_Italy
+7,12,6.0,08_Italy
+7,14,2.0,08_Italy
+7,15,1.0,08_Italy
+7,16,7.0,08_Italy
+7,18,4.0,08_Italy
+8,11,1.0,09_France
+8,12,2.0,09_France
+8,13,1.0,09_France
+8,14,1.0,09_France
+8,15,17.0,09_France
+8,16,4.0,09_France
+9,11,2.0,10_United Kingdom
+9,12,3.0,10_United Kingdom
+9,13,1.0,10_United Kingdom
+9,14,3.0,10_United Kingdom
+9,16,3.0,10_United Kingdom
+9,18,2.0,10_United Kingdom
+9,19,1.0,10_United Kingdom

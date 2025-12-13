@@ -1,0 +1,95 @@
+source,target,value,group
+0,10,48.0,01_South Korea
+0,11,38.0,01_South Korea
+0,12,34.0,01_South Korea
+0,13,22.0,01_South Korea
+0,14,18.0,01_South Korea
+0,15,15.0,01_South Korea
+0,16,11.0,01_South Korea
+0,17,12.0,01_South Korea
+0,18,8.0,01_South Korea
+0,19,11.0,01_South Korea
+1,10,39.0,02_USA
+1,11,32.0,02_USA
+1,12,29.0,02_USA
+1,13,20.0,02_USA
+1,14,19.0,02_USA
+1,15,20.0,02_USA
+1,16,10.0,02_USA
+1,17,12.0,02_USA
+1,18,12.0,02_USA
+1,19,2.0,02_USA
+2,10,27.0,03_Australia
+2,11,7.0,03_Australia
+2,12,16.0,03_Australia
+2,13,18.0,03_Australia
+2,14,8.0,03_Australia
+2,15,4.0,03_Australia
+2,16,9.0,03_Australia
+2,17,2.0,03_Australia
+2,18,5.0,03_Australia
+2,19,1.0,03_Australia
+3,10,19.0,04_Japan
+3,11,13.0,04_Japan
+3,12,10.0,04_Japan
+3,13,5.0,04_Japan
+3,14,7.0,04_Japan
+3,15,5.0,04_Japan
+3,16,4.0,04_Japan
+3,17,3.0,04_Japan
+3,18,3.0,04_Japan
+3,19,5.0,04_Japan
+4,10,20.0,05_Singapore
+4,11,17.0,05_Singapore
+4,12,6.0,05_Singapore
+4,13,8.0,05_Singapore
+4,14,6.0,05_Singapore
+4,15,5.0,05_Singapore
+4,16,3.0,05_Singapore
+4,17,2.0,05_Singapore
+4,18,5.0,05_Singapore
+4,19,2.0,05_Singapore
+5,10,14.0,06_Canada
+5,11,9.0,06_Canada
+5,12,8.0,06_Canada
+5,13,9.0,06_Canada
+5,14,4.0,06_Canada
+5,15,10.0,06_Canada
+5,16,3.0,06_Canada
+5,17,5.0,06_Canada
+5,18,3.0,06_Canada
+5,19,1.0,06_Canada
+6,10,4.0,07_Malaysia
+6,11,13.0,07_Malaysia
+6,12,8.0,07_Malaysia
+6,14,6.0,07_Malaysia
+6,15,4.0,07_Malaysia
+6,16,4.0,07_Malaysia
+6,17,3.0,07_Malaysia
+6,18,2.0,07_Malaysia
+6,19,1.0,07_Malaysia
+7,10,7.0,08_New Zealand
+7,11,9.0,08_New Zealand
+7,12,2.0,08_New Zealand
+7,13,5.0,08_New Zealand
+7,14,2.0,08_New Zealand
+7,16,2.0,08_New Zealand
+7,17,5.0,08_New Zealand
+7,18,4.0,08_New Zealand
+7,19,2.0,08_New Zealand
+8,10,7.0,09_Germany
+8,11,2.0,09_Germany
+8,12,1.0,09_Germany
+8,13,1.0,09_Germany
+8,14,1.0,09_Germany
+8,16,3.0,09_Germany
+8,17,1.0,09_Germany
+8,18,1.0,09_Germany
+8,19,4.0,09_Germany
+9,10,6.0,10_France
+9,11,2.0,10_France
+9,12,2.0,10_France
+9,13,1.0,10_France
+9,14,4.0,10_France
+9,15,1.0,10_France
+9,16,1.0,10_France
