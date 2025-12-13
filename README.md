@@ -18,7 +18,7 @@ The analyses integrate genomic, epidemiological, and mobility data to explore vi
 In compliance with the data-sharing policy of **GISAID** ([https://gisaid.org/](https://gisaid.org/)), the **actual SARS-CoV-2 genome sequences** used in this study have been **removed** from this repository.  
 To reproduce the results, please download the relevant sequences from GISAID using the **accession IDs** provided in the `/data` directory of this repository.
 
-- `Supplementary_Data_S1.csv`— the intensity of international travel control measures implemented by the Chinese government from the Oxford COVID-19 Government Response Tracker (OxCGRT) (https://github.com/OxCGRT/covid-policy-dataset).
+- Supplementary_Data_S1.csv`— the intensity of international travel control measures implemented by the Chinese government from the Oxford COVID-19 Government Response Tracker (OxCGRT) (https://github.com/OxCGRT/covid-policy-dataset).
 - `Supplementary_Data_S2.csv`— raw sequence data used from GISAID  database under accession IDs and strain name in the mainland of China.
 - `Supplementary_Data_S3.csv`— raw sequence data used from GISAID database under accession IDs (global).
 
@@ -26,7 +26,7 @@ To reproduce the results, please download the relevant sequences from GISAID usi
 
 ## ⚙️ Code Description
 
-### `code/data_processing.py`
+### `script/data_processing.py`
 
 - Performs data preprocessing and quality control for SARS-CoV-2 sequences and associated metadata from GISAID.  
 - Counts the number of sequences for each Omicron sublineage and each province in the mainland of China.  
@@ -38,7 +38,7 @@ To reproduce the results, please download the relevant sequences from GISAID usi
 
 ---
 
-### `code/mutation_network.py`
+### `script/mutation_network.py`
 
 - Constructs mutation networks for the six dominant Omicron sublineages.  
 - Quantifies importation events from overseas regions.  
@@ -46,34 +46,33 @@ To reproduce the results, please download the relevant sequences from GISAID usi
 
 ---
 
-### `code/glm.py`
+### `script/glm_model.py`
 
 - Applies **generalized linear models (GLMs)** to examine the association between viral transmission and potential explanatory factors.  
 - Integrates exportation events across all Omicron lineages into a unified GLM framework to identify predictors influencing interprovincial viral export capacity.
 
 ---
 
-### `code/sensitive.py`
+### `script/sensitive_analysis.py`
 
 - Conducts **sensitivity analyses** to assess the robustness of the results.  
 - Implements subsampling by province and lineage to mitigate potential sampling bias and replicates the full analytical framework on subsampled datasets.
 
 ---
 
-## 📊 Visualization Notebooks
+## 📊 Visualization Notebooks (script_figure/)
 
 Each Jupyter notebook (`.ipynb`) reproduces a corresponding figure from the main text or supplementary materials:
 
-| Notebook           | Description                               |
-| ------------------ | ----------------------------------------- |
-| **Figure1.ipynb**  | Visualization for Figure 1                |
-| **Figure2.ipynb**  | Visualization for Figure 2                |
-| **Figure3.ipynb**  | Visualization for Figure 3                |
-| **Figure4.ipynb**  | Visualization for Figure 4                |
-| **Figure5.ipynb**  | Visualization for Figure 5                |
-| **FigureS1.ipynb** | Visualization for Supplementary Figure S1 |
-| **FigureS2.ipynb** | Visualization for Supplementary Figure S2 |
-| **FigureS3.ipynb** | Visualization for Supplementary Figure S3 |
+| Notebook                         | Description                                                  |
+| -------------------------------- | ------------------------------------------------------------ |
+| **Figure_1_dataDescribe.ipynb**  | Visualization for Figure 1                                   |
+| **Figure_2_sankeyplot.ipynb**    | Visualization for Figure 2 left panel                        |
+| **Figure_2_temporalImportation** | Visualization for Figure 2 right panel                       |
+| **Figure_3_airTravel.ipynb**     | Visualization for Figure 3                                   |
+| **Figure_4_domesticTrans.ipynb** | Visualization for Figure 4                                   |
+| **Figure_5_exportHubs.ipynb**    | Visualization for Figure 5                                   |
+| **Figure_S2_S3.ipynb**           | Visualization for Supplementary Figure S2 and Supplementary Figure S3 |
 
 ---
 
