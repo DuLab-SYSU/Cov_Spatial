@@ -2,13 +2,13 @@
 
 **Cov_Spatial** provides the code and data necessary to reproduce the analyses presented in the article:  
 
-*“Spatio-temporal dispersal patterns of SARS-CoV-2 in mainland China following the COVID-19 response adjustment.”*
+*“Spatio-temporal dispersal patterns of SARS-CoV-2 in the Chinese mainland following the COVID-19 response adjustment.”*
 
 ---
 
 ## 🧩 Overview
 
-This repository contains scripts and metadata used to investigate the spatial and temporal dynamics of SARS-CoV-2 transmission in the mainland of China following the COVID-19 response adjustment.  
+This repository contains scripts and metadata used to investigate the spatial and temporal dynamics of SARS-CoV-2 transmission in the Chinese mainland following the COVID-19 response adjustment.  
 The analyses integrate genomic, epidemiological, and mobility data to explore viral importation, interprovincial transmission, and the predictors influencing the viral transmission.
 
 ---
@@ -18,9 +18,10 @@ The analyses integrate genomic, epidemiological, and mobility data to explore vi
 In compliance with the data-sharing policy of **GISAID** ([https://gisaid.org/](https://gisaid.org/)), the **actual SARS-CoV-2 genome sequences** used in this study have been **removed** from this repository.  
 To reproduce the results, please download the relevant sequences from GISAID using the **accession IDs** provided in the `/data` directory of this repository.
 
-- `Supplementary_Data_S1.csv`— the intensity of international travel control measures implemented by the Chinese government from the Oxford COVID-19 Government Response Tracker (OxCGRT) (https://github.com/OxCGRT/covid-policy-dataset).
-- `Supplementary_Data_S2.csv`— raw sequence data used from GISAID  database under accession IDs and strain name in the mainland of China.
-- `Supplementary_Data_S3.csv`— raw sequence data used from GISAID database under accession IDs (global).
+- `Supplementary_Data_S1.csv` — the temporal changes in the sequencing numbers of each Omicron sublineage in the Chinese mainland from December 2019 to November 2023
+- `Supplementary_Data_S2.csv`— the intensity of international travel control measures implemented by the Chinese government from the Oxford COVID-19 Government Response Tracker (OxCGRT) (https://github.com/OxCGRT/covid-policy-dataset).
+- `Supplementary_Data_S3.csv`— raw sequence data used from GISAID  database under accession IDs and strain name in the Chinese mainland.
+- `Supplementary_Data_S4.csv`— raw sequence data used from GISAID database under accession IDs (global).
 
 ---
 
@@ -29,7 +30,7 @@ To reproduce the results, please download the relevant sequences from GISAID usi
 ### `script/data_processing.py`
 
 - Performs data preprocessing and quality control for SARS-CoV-2 sequences and associated metadata from GISAID.  
-- Counts the number of sequences for each Omicron sublineage and each province in the mainland of China.  
+- Counts the number of sequences for each Omicron sublineage and each province in the Chinese mainland.  
 - Identifies six dominant ancestral Omicron lineages: **BA.5, BF.7, DY, XBB, EG.5, and HK**.  
 - Defines three epidemic phases based on temporal predominance and lineage composition:  
   - **Phase I:** BA.5/BF.7/DY (July 2022 – March 2023)  
