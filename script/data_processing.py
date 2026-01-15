@@ -163,7 +163,7 @@ def CN_ExtractData_QualityControl(total_metafile,domestic_nextclade_file,domesti
             loc_lst.append(locinfo[2].strip())
 
     df['Province'] = [loc_shft_dct[i] if i in loc_shft_dct else i for i in loc_lst]
-    df = df[~df['Province'].isin(['error'])]
+    df = df[~df['Province'].isin(['error','Taiwan','Hong Kong','Macau'])]
     df = df[['Accession ID', 'Virus name', 'Collection date',
              'Country', 'Province', 'Pango lineage', 'Variant']]
     # Using Nextclade tool to conduct further quality control
